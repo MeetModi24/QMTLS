@@ -1,0 +1,150 @@
+{
+  "benchmark_id": "q-mtls-v0.1",
+  "generated_on": "2026-04-22",
+  "clusters": [
+    {
+      "cluster_id": "c1",
+      "cluster_name": "Middle East Flashpoint 2019-2020",
+      "time_range": {"start": "2019-01-01", "end": "2020-12-31"},
+      "politically_sensitive": true,
+      "subtopics": [
+        {"id": "c1_a_us_iran", "canonical_keyword": "US Iran tensions Soleimani"},
+        {"id": "c1_b_syria", "canonical_keyword": "Syria civil war"},
+        {"id": "c1_c_yemen", "canonical_keyword": "Yemen conflict Saudi coalition"},
+        {"id": "c1_d_israel_palestine", "canonical_keyword": "Israel Palestine escalation"}
+      ]
+    },
+    {
+      "cluster_id": "c2",
+      "cluster_name": "South Asia 2024-2025",
+      "time_range": {"start": "2024-07-01", "end": "2025-12-31"},
+      "politically_sensitive": true,
+      "subtopics": [
+        {"id": "c2_a_operation_sindoor", "canonical_keyword": "Operation Sindoor India Pakistan May 2025"},
+        {"id": "c2_b_bangladesh_transition", "canonical_keyword": "Bangladesh political transition Hasina"},
+        {"id": "c2_c_afghanistan_taliban", "canonical_keyword": "Afghanistan Taliban rule"},
+        {"id": "c2_d_kashmir", "canonical_keyword": "Kashmir unrest cross border"}
+      ]
+    },
+    {
+      "cluster_id": "c3",
+      "cluster_name": "Russia-Ukraine Theater 2022-2024",
+      "time_range": {"start": "2022-02-01", "end": "2024-12-31"},
+      "politically_sensitive": false,
+      "subtopics": [
+        {"id": "c3_a_ukraine_frontline", "canonical_keyword": "Ukraine war frontline"},
+        {"id": "c3_b_sanctions", "canonical_keyword": "Western sanctions Russia"},
+        {"id": "c3_c_nato_expansion", "canonical_keyword": "NATO expansion Finland Sweden"},
+        {"id": "c3_d_wagner_prigozhin", "canonical_keyword": "Wagner Group Prigozhin"}
+      ]
+    },
+    {
+      "cluster_id": "c4",
+      "cluster_name": "Israel-Gaza-Lebanon-Iran 2023-2024",
+      "time_range": {"start": "2023-10-01", "end": "2024-12-31"},
+      "politically_sensitive": true,
+      "subtopics": [
+        {"id": "c4_a_gaza_war", "canonical_keyword": "Gaza war October 7"},
+        {"id": "c4_b_hezbollah_israel", "canonical_keyword": "Hezbollah Israel border pager attack"},
+        {"id": "c4_c_houthi_red_sea", "canonical_keyword": "Houthi Red Sea shipping"},
+        {"id": "c4_d_iran_strikes", "canonical_keyword": "Iran Israel direct strikes 2024"}
+      ]
+    },
+    {
+      "cluster_id": "c5",
+      "cluster_name": "China-Taiwan-US Tech 2022-2024",
+      "time_range": {"start": "2022-01-01", "end": "2024-12-31"},
+      "politically_sensitive": false,
+      "subtopics": [
+        {"id": "c5_a_taiwan_strait", "canonical_keyword": "Taiwan Strait tensions military exercises"},
+        {"id": "c5_b_chip_export_controls", "canonical_keyword": "US chip export controls China"},
+        {"id": "c5_c_hong_kong", "canonical_keyword": "Hong Kong national security law"},
+        {"id": "c5_d_south_china_sea", "canonical_keyword": "South China Sea Philippines Vietnam"}
+      ]
+    },
+    {
+      "cluster_id": "c6",
+      "cluster_name": "US Election 2024",
+      "time_range": {"start": "2024-01-01", "end": "2025-01-31"},
+      "politically_sensitive": false,
+      "subtopics": [
+        {"id": "c6_a_trump_campaign", "canonical_keyword": "Trump campaign criminal trials"},
+        {"id": "c6_b_biden_harris", "canonical_keyword": "Biden withdrawal Harris campaign"},
+        {"id": "c6_c_congressional_races", "canonical_keyword": "House Senate races 2024"},
+        {"id": "c6_d_assassination_attempts", "canonical_keyword": "Trump assassination attempt Butler"}
+      ]
+    },
+    {
+      "cluster_id": "c7",
+      "cluster_name": "European Political Shifts 2024",
+      "time_range": {"start": "2024-04-01", "end": "2025-01-31"},
+      "politically_sensitive": false,
+      "subtopics": [
+        {"id": "c7_a_uk_election", "canonical_keyword": "UK general election Labour"},
+        {"id": "c7_b_france_snap", "canonical_keyword": "France snap parliamentary election"},
+        {"id": "c7_c_germany_coalition", "canonical_keyword": "Germany coalition collapse snap election"},
+        {"id": "c7_d_eu_parliament", "canonical_keyword": "EU Parliament election far right"}
+      ]
+    },
+    {
+      "cluster_id": "c8",
+      "cluster_name": "Bangladesh Political Upheaval 2024-2025",
+      "time_range": {"start": "2024-01-01", "end": "2025-12-31"},
+      "politically_sensitive": true,
+      "subtopics": [
+        {"id": "c8_a_quota_protests", "canonical_keyword": "Bangladesh quota reform protests"},
+        {"id": "c8_b_hasina_fall", "canonical_keyword": "Sheikh Hasina government fall"},
+        {"id": "c8_c_yunus_interim", "canonical_keyword": "Muhammad Yunus interim government Bangladesh"},
+        {"id": "c8_d_minority_attacks", "canonical_keyword": "Bangladesh minority attacks India response"}
+      ]
+    },
+    {
+      "cluster_id": "c9",
+      "cluster_name": "2023 Disaster Year",
+      "time_range": {"start": "2023-01-01", "end": "2023-12-31"},
+      "politically_sensitive": false,
+      "subtopics": [
+        {"id": "c9_a_turkey_syria_eq", "canonical_keyword": "Turkey Syria earthquake February 2023"},
+        {"id": "c9_b_morocco_eq", "canonical_keyword": "Morocco earthquake September 2023"},
+        {"id": "c9_c_libya_floods", "canonical_keyword": "Libya Derna floods September 2023"},
+        {"id": "c9_d_maui_fires", "canonical_keyword": "Maui wildfires Lahaina August 2023"}
+      ]
+    },
+    {
+      "cluster_id": "c10",
+      "cluster_name": "COVID-19 & Co-occurring Crises 2020-2021",
+      "time_range": {"start": "2020-03-01", "end": "2021-12-31"},
+      "politically_sensitive": false,
+      "subtopics": [
+        {"id": "c10_a_covid_pandemic", "canonical_keyword": "COVID pandemic waves lockdowns"},
+        {"id": "c10_b_vaccine_rollout", "canonical_keyword": "COVID vaccine development rollout"},
+        {"id": "c10_c_blm_protests", "canonical_keyword": "George Floyd BLM protests"},
+        {"id": "c10_d_capitol_jan6", "canonical_keyword": "US Capitol January 6"}
+      ]
+    },
+    {
+      "cluster_id": "c11",
+      "cluster_name": "AI Boom 2022-2024",
+      "time_range": {"start": "2022-11-01", "end": "2024-12-31"},
+      "politically_sensitive": false,
+      "subtopics": [
+        {"id": "c11_a_chatgpt_openai", "canonical_keyword": "ChatGPT launch OpenAI"},
+        {"id": "c11_b_altman_ouster", "canonical_keyword": "Sam Altman ouster OpenAI November 2023"},
+        {"id": "c11_c_eu_ai_act", "canonical_keyword": "EU AI Act negotiation passage"},
+        {"id": "c11_d_big_tech_ai", "canonical_keyword": "Google Meta Anthropic AI product launch"}
+      ]
+    },
+    {
+      "cluster_id": "c12",
+      "cluster_name": "Crypto Collapse 2022-2024",
+      "time_range": {"start": "2022-05-01", "end": "2024-01-31"},
+      "politically_sensitive": false,
+      "subtopics": [
+        {"id": "c12_a_ftx_sbf", "canonical_keyword": "FTX collapse SBF trial"},
+        {"id": "c12_b_terra_luna", "canonical_keyword": "Terra Luna collapse May 2022"},
+        {"id": "c12_c_binance_cz", "canonical_keyword": "Binance CZ settlement"},
+        {"id": "c12_d_bitcoin_etf", "canonical_keyword": "Bitcoin spot ETF approval January 2024"}
+      ]
+    }
+  ]
+}

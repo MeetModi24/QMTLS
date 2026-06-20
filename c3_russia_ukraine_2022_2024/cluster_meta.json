@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c3",
+  "cluster_name": "Russia-Ukraine Theater 2022-2024",
+  "time_range": {"start": "2022-02-01", "end": "2024-12-31"},
+  "subtopics": ["c3_a_ukraine_frontline", "c3_b_sanctions", "c3_c_nato_expansion", "c3_d_wagner_prigozhin"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": false,
+  "entanglement_rationale": "All four threads are direct consequences of Russia's 2022 invasion, with battlefield dynamics, economic warfare, alliance realignment, and internal Russian power struggles feeding into one another.",
+  "status": "in_progress"
+}

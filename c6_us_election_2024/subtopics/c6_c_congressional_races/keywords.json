@@ -1,0 +1,36 @@
+{
+  "subtopic_id": "c6_c_congressional_races",
+  "canonical_keywords": [
+    "2024 United States House of Representatives elections",
+    "2024 United States Senate elections"
+  ],
+  "entity_keywords": [
+    "Mike Johnson",
+    "Hakeem Jeffries",
+    "Chuck Schumer",
+    "Mitch McConnell",
+    "John Thune",
+    "Sherrod Brown",
+    "Jon Tester",
+    "Bernie Moreno",
+    "Tim Sheehy",
+    "Larry Hogan",
+    "Colin Allred",
+    "Ted Cruz",
+    "Bob Casey",
+    "David McCormick"
+  ],
+  "event_keywords": [
+    "Republican Senate majority flip",
+    "Ohio Senate race Brown loss to Moreno",
+    "Montana Senate race Tester loss to Sheehy",
+    "House Republican majority retention",
+    "Pennsylvania Senate race Casey-McCormick"
+  ],
+  "broader_context": [
+    "redistricting and gerrymandering",
+    "split-ticket voting",
+    "campaign finance super political action committees",
+    "Senate filibuster debate"
+  ]
+}

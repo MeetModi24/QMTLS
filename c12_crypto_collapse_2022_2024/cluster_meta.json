@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c12",
+  "cluster_name": "Crypto Collapse 2022-2024",
+  "time_range": {"start": "2022-05-01", "end": "2024-01-31"},
+  "subtopics": ["c12_a_ftx_sbf", "c12_b_terra_luna", "c12_c_binance_cz", "c12_d_bitcoin_etf"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": false,
+  "entanglement_rationale": "The Terra Luna implosion cascaded into FTX's collapse and Binance's settlement, with the eventual spot Bitcoin ETF approval marking the regulatory aftermath of the same crypto-winter cycle.",
+  "status": "in_progress"
+}

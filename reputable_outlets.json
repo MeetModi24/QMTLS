@@ -1,0 +1,111 @@
+{
+  "notes": "Whitelist of reputable outlets. Domain hints are given but matching should be done against 'outlet' field or canonical domain. 'cluster_specific' extends 'global_whitelist' for each cluster.",
+  "global_whitelist": [
+    {"outlet": "Reuters", "domain": "reuters.com"},
+    {"outlet": "Associated Press", "domain": "apnews.com"},
+    {"outlet": "Agence France-Presse", "domain": "afp.com"},
+    {"outlet": "BBC", "domain": "bbc.com"},
+    {"outlet": "BBC", "domain": "bbc.co.uk"},
+    {"outlet": "The Guardian", "domain": "theguardian.com"},
+    {"outlet": "Al Jazeera", "domain": "aljazeera.com"},
+    {"outlet": "Deutsche Welle", "domain": "dw.com"},
+    {"outlet": "France24", "domain": "france24.com"},
+    {"outlet": "NPR", "domain": "npr.org"},
+    {"outlet": "PBS", "domain": "pbs.org"},
+    {"outlet": "The New York Times", "domain": "nytimes.com"},
+    {"outlet": "The Washington Post", "domain": "washingtonpost.com"},
+    {"outlet": "The Wall Street Journal", "domain": "wsj.com"},
+    {"outlet": "Financial Times", "domain": "ft.com"},
+    {"outlet": "The Economist", "domain": "economist.com"},
+    {"outlet": "CNN", "domain": "cnn.com"},
+    {"outlet": "ABC News", "domain": "abcnews.go.com"},
+    {"outlet": "CBS News", "domain": "cbsnews.com"},
+    {"outlet": "NBC News", "domain": "nbcnews.com"},
+    {"outlet": "Bloomberg", "domain": "bloomberg.com"},
+    {"outlet": "The Atlantic", "domain": "theatlantic.com"}
+  ],
+  "cluster_specific": {
+    "c1": [
+      {"outlet": "Haaretz", "domain": "haaretz.com"},
+      {"outlet": "Times of Israel", "domain": "timesofisrael.com"},
+      {"outlet": "Middle East Eye", "domain": "middleeasteye.net"},
+      {"outlet": "Arab News", "domain": "arabnews.com"},
+      {"outlet": "Al-Monitor", "domain": "al-monitor.com"},
+      {"outlet": "Tehran Times", "domain": "tehrantimes.com"}
+    ],
+    "c2": [
+      {"outlet": "The Hindu", "domain": "thehindu.com"},
+      {"outlet": "Times of India", "domain": "timesofindia.indiatimes.com"},
+      {"outlet": "Hindustan Times", "domain": "hindustantimes.com"},
+      {"outlet": "Dawn", "domain": "dawn.com"},
+      {"outlet": "Geo News", "domain": "geo.tv"},
+      {"outlet": "Daily Star Bangladesh", "domain": "thedailystar.net"},
+      {"outlet": "Prothom Alo", "domain": "en.prothomalo.com"},
+      {"outlet": "Tolo News", "domain": "tolonews.com"}
+    ],
+    "c3": [
+      {"outlet": "Kyiv Independent", "domain": "kyivindependent.com"},
+      {"outlet": "Meduza", "domain": "meduza.io"},
+      {"outlet": "Radio Free Europe/Radio Liberty", "domain": "rferl.org"},
+      {"outlet": "Institute for the Study of War", "domain": "understandingwar.org"}
+    ],
+    "c4": [
+      {"outlet": "Haaretz", "domain": "haaretz.com"},
+      {"outlet": "Times of Israel", "domain": "timesofisrael.com"},
+      {"outlet": "Middle East Eye", "domain": "middleeasteye.net"},
+      {"outlet": "Arab News", "domain": "arabnews.com"},
+      {"outlet": "L'Orient Today", "domain": "today.lorientlejour.com"},
+      {"outlet": "Al-Monitor", "domain": "al-monitor.com"}
+    ],
+    "c5": [
+      {"outlet": "South China Morning Post", "domain": "scmp.com"},
+      {"outlet": "Nikkei Asia", "domain": "asia.nikkei.com"},
+      {"outlet": "Taipei Times", "domain": "taipeitimes.com"},
+      {"outlet": "Focus Taiwan", "domain": "focustaiwan.tw"},
+      {"outlet": "Hong Kong Free Press", "domain": "hongkongfp.com"}
+    ],
+    "c6": [
+      {"outlet": "Politico", "domain": "politico.com"},
+      {"outlet": "Axios", "domain": "axios.com"},
+      {"outlet": "The Hill", "domain": "thehill.com"}
+    ],
+    "c7": [
+      {"outlet": "The Telegraph", "domain": "telegraph.co.uk"},
+      {"outlet": "Le Monde", "domain": "lemonde.fr"},
+      {"outlet": "Politico Europe", "domain": "politico.eu"},
+      {"outlet": "Euronews", "domain": "euronews.com"}
+    ],
+    "c8": [
+      {"outlet": "Daily Star Bangladesh", "domain": "thedailystar.net"},
+      {"outlet": "Prothom Alo", "domain": "en.prothomalo.com"},
+      {"outlet": "Dhaka Tribune", "domain": "dhakatribune.com"},
+      {"outlet": "Netra News", "domain": "netra.news"},
+      {"outlet": "bdnews24", "domain": "bdnews24.com"}
+    ],
+    "c9": [
+      {"outlet": "Anadolu Agency", "domain": "aa.com.tr"},
+      {"outlet": "Hürriyet Daily News", "domain": "hurriyetdailynews.com"},
+      {"outlet": "Morocco World News", "domain": "moroccoworldnews.com"},
+      {"outlet": "Libya Observer", "domain": "libyaobserver.ly"},
+      {"outlet": "Honolulu Star-Advertiser", "domain": "staradvertiser.com"},
+      {"outlet": "Hawaii News Now", "domain": "hawaiinewsnow.com"}
+    ],
+    "c10": [
+      {"outlet": "STAT News", "domain": "statnews.com"},
+      {"outlet": "Nature", "domain": "nature.com"},
+      {"outlet": "Science Magazine", "domain": "science.org"}
+    ],
+    "c11": [
+      {"outlet": "TechCrunch", "domain": "techcrunch.com"},
+      {"outlet": "The Verge", "domain": "theverge.com"},
+      {"outlet": "Ars Technica", "domain": "arstechnica.com"},
+      {"outlet": "MIT Technology Review", "domain": "technologyreview.com"},
+      {"outlet": "Wired", "domain": "wired.com"}
+    ],
+    "c12": [
+      {"outlet": "CoinDesk", "domain": "coindesk.com"},
+      {"outlet": "The Block", "domain": "theblock.co"},
+      {"outlet": "Protos", "domain": "protos.com"}
+    ]
+  }
+}

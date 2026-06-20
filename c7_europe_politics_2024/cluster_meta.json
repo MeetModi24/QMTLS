@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c7",
+  "cluster_name": "European Political Shifts 2024",
+  "time_range": {"start": "2024-04-01", "end": "2025-01-31"},
+  "subtopics": ["c7_a_uk_election", "c7_b_france_snap", "c7_c_germany_coalition", "c7_d_eu_parliament"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": false,
+  "entanglement_rationale": "A wave of near-simultaneous national and supranational European elections in 2024 reshaped the continent's political balance, with results in each contest influencing momentum in the others.",
+  "status": "in_progress"
+}

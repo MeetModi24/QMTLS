@@ -1,0 +1,31 @@
+{
+  "subtopic_id": "c11_c_eu_ai_act",
+  "canonical_keywords": [
+    "European Union Artificial Intelligence Act",
+    "EU AI Act"
+  ],
+  "entity_keywords": [
+    "European Commission",
+    "European Parliament",
+    "Council of the European Union",
+    "Thierry Breton",
+    "Margrethe Vestager",
+    "Brando Benifei",
+    "Dragoș Tudorache",
+    "European AI Office",
+    "European Artificial Intelligence Board"
+  ],
+  "event_keywords": [
+    "AI Act political agreement December 8 2023",
+    "European Parliament adoption March 13 2024",
+    "Council approval May 21 2024",
+    "Official Journal publication July 12 2024",
+    "AI Act entry into force August 1 2024"
+  ],
+  "broader_context": [
+    "risk-based regulation",
+    "general-purpose AI rules",
+    "foundation model obligations",
+    "Brussels effect on global AI regulation"
+  ]
+}

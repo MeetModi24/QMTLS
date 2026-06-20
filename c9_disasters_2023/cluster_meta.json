@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c9",
+  "cluster_name": "2023 Disaster Year",
+  "time_range": {"start": "2023-01-01", "end": "2023-12-31"},
+  "subtopics": ["c9_a_turkey_syria_eq", "c9_b_morocco_eq", "c9_c_libya_floods", "c9_d_maui_fires"],
+  "collection_date": "2026-04-22",
+  "politically_sensitive": false,
+  "entanglement_rationale": "Shared humanitarian framing, overlapping international aid response, concurrent September disasters for Morocco earthquake and Libya floods.",
+  "status": "partial_pilot"
+}

@@ -1,0 +1,327 @@
+{
+  "cluster_id": "c9",
+  "method": {
+    "temporal_overlap": "Pairwise Jaccard on monthly bucket sets of timeline entry dates (YYYY-MM level).",
+    "lexical_jaccard": "Pairwise Jaccard on top-100 most-frequent content tokens (after lowercasing and English stop-word removal) from the concatenated timeline entry summaries of each sub-topic. Raw frequency is used instead of TF-IDF because with only N=4 sub-topic documents TF-IDF degenerates to a named-entity ranker (IDF = log(5/df+1)) that systematically hides the shared disaster vocabulary the entanglement metric is meant to capture.",
+    "corpus": "Timeline summaries only (gold journalistic timelines). Article URL corpus was too sparse for TF-IDF over full text given copyright-safe metadata-only collection."
+  },
+  "pair_matrix": [
+    {
+      "a": "c9_a_turkey_syria_eq",
+      "b": "c9_b_morocco_eq",
+      "temporal_overlap_monthly_jaccard": 0.0,
+      "lexical_jaccard_top100": 0.176,
+      "a_months": [
+        "2023-02",
+        "2023-03",
+        "2023-04",
+        "2023-05",
+        "2023-06"
+      ],
+      "b_months": [
+        "2023-09",
+        "2023-10",
+        "2023-12"
+      ],
+      "a_top_tokens_sample": [
+        "above",
+        "across",
+        "afad",
+        "affected",
+        "aftershock",
+        "aftershocks",
+        "against",
+        "aid",
+        "appeal",
+        "area",
+        "around",
+        "arranged",
+        "billion",
+        "brought",
+        "building"
+      ],
+      "b_top_tokens_sample": [
+        "accepted",
+        "across",
+        "affected",
+        "aftershock",
+        "aid",
+        "all",
+        "amizmiz",
+        "announced",
+        "atlas",
+        "authorised",
+        "began",
+        "blocked",
+        "britain",
+        "built",
+        "canada"
+      ]
+    },
+    {
+      "a": "c9_a_turkey_syria_eq",
+      "b": "c9_c_libya_floods",
+      "temporal_overlap_monthly_jaccard": 0.0,
+      "lexical_jaccard_top100": 0.042,
+      "a_months": [
+        "2023-02",
+        "2023-03",
+        "2023-04",
+        "2023-05",
+        "2023-06"
+      ],
+      "b_months": [
+        "2023-09",
+        "2023-10",
+        "2023-11"
+      ],
+      "a_top_tokens_sample": [
+        "above",
+        "across",
+        "afad",
+        "affected",
+        "aftershock",
+        "aftershocks",
+        "against",
+        "aid",
+        "appeal",
+        "area",
+        "around",
+        "arranged",
+        "billion",
+        "brought",
+        "building"
+      ],
+      "b_top_tokens_sample": [
+        "abu",
+        "across",
+        "administration",
+        "ahead",
+        "al-bayda",
+        "alone",
+        "authorities",
+        "balkans",
+        "began",
+        "belad",
+        "bending",
+        "bodies",
+        "central",
+        "city",
+        "coast"
+      ]
+    },
+    {
+      "a": "c9_a_turkey_syria_eq",
+      "b": "c9_d_maui_fires",
+      "temporal_overlap_monthly_jaccard": 0.0,
+      "lexical_jaccard_top100": 0.031,
+      "a_months": [
+        "2023-02",
+        "2023-03",
+        "2023-04",
+        "2023-05",
+        "2023-06"
+      ],
+      "b_months": [
+        "2023-08",
+        "2023-09",
+        "2023-10"
+      ],
+      "a_top_tokens_sample": [
+        "above",
+        "across",
+        "afad",
+        "affected",
+        "aftershock",
+        "aftershocks",
+        "against",
+        "aid",
+        "appeal",
+        "area",
+        "around",
+        "arranged",
+        "billion",
+        "brought",
+        "building"
+      ],
+      "b_top_tokens_sample": [
+        "acres",
+        "active",
+        "advisory",
+        "began",
+        "biden",
+        "brush",
+        "burning",
+        "bypass",
+        "chief",
+        "closed",
+        "coast",
+        "confirmed",
+        "contained",
+        "continued",
+        "control"
+      ]
+    },
+    {
+      "a": "c9_b_morocco_eq",
+      "b": "c9_c_libya_floods",
+      "temporal_overlap_monthly_jaccard": 0.5,
+      "lexical_jaccard_top100": 0.036,
+      "a_months": [
+        "2023-09",
+        "2023-10",
+        "2023-12"
+      ],
+      "b_months": [
+        "2023-09",
+        "2023-10",
+        "2023-11"
+      ],
+      "a_top_tokens_sample": [
+        "accepted",
+        "across",
+        "affected",
+        "aftershock",
+        "aid",
+        "all",
+        "amizmiz",
+        "announced",
+        "atlas",
+        "authorised",
+        "began",
+        "blocked",
+        "britain",
+        "built",
+        "canada"
+      ],
+      "b_top_tokens_sample": [
+        "abu",
+        "across",
+        "administration",
+        "ahead",
+        "al-bayda",
+        "alone",
+        "authorities",
+        "balkans",
+        "began",
+        "belad",
+        "bending",
+        "bodies",
+        "central",
+        "city",
+        "coast"
+      ]
+    },
+    {
+      "a": "c9_b_morocco_eq",
+      "b": "c9_d_maui_fires",
+      "temporal_overlap_monthly_jaccard": 0.5,
+      "lexical_jaccard_top100": 0.047,
+      "a_months": [
+        "2023-09",
+        "2023-10",
+        "2023-12"
+      ],
+      "b_months": [
+        "2023-08",
+        "2023-09",
+        "2023-10"
+      ],
+      "a_top_tokens_sample": [
+        "accepted",
+        "across",
+        "affected",
+        "aftershock",
+        "aid",
+        "all",
+        "amizmiz",
+        "announced",
+        "atlas",
+        "authorised",
+        "began",
+        "blocked",
+        "britain",
+        "built",
+        "canada"
+      ],
+      "b_top_tokens_sample": [
+        "acres",
+        "active",
+        "advisory",
+        "began",
+        "biden",
+        "brush",
+        "burning",
+        "bypass",
+        "chief",
+        "closed",
+        "coast",
+        "confirmed",
+        "contained",
+        "continued",
+        "control"
+      ]
+    },
+    {
+      "a": "c9_c_libya_floods",
+      "b": "c9_d_maui_fires",
+      "temporal_overlap_monthly_jaccard": 0.5,
+      "lexical_jaccard_top100": 0.053,
+      "a_months": [
+        "2023-09",
+        "2023-10",
+        "2023-11"
+      ],
+      "b_months": [
+        "2023-08",
+        "2023-09",
+        "2023-10"
+      ],
+      "a_top_tokens_sample": [
+        "abu",
+        "across",
+        "administration",
+        "ahead",
+        "al-bayda",
+        "alone",
+        "authorities",
+        "balkans",
+        "began",
+        "belad",
+        "bending",
+        "bodies",
+        "central",
+        "city",
+        "coast"
+      ],
+      "b_top_tokens_sample": [
+        "acres",
+        "active",
+        "advisory",
+        "began",
+        "biden",
+        "brush",
+        "burning",
+        "bypass",
+        "chief",
+        "closed",
+        "coast",
+        "confirmed",
+        "contained",
+        "continued",
+        "control"
+      ]
+    }
+  ],
+  "mean_temporal_overlap": 0.25,
+  "mean_lexical_jaccard": 0.064,
+  "min_temporal_overlap": 0.0,
+  "min_lexical_jaccard": 0.031,
+  "max_temporal_overlap": 0.5,
+  "max_lexical_jaccard": 0.176,
+  "thresholds": {
+    "min_temporal_overlap": 0.6,
+    "min_lexical_jaccard": 0.15
+  },
+  "notes": "Disasters 2023 is thematically coherent (shared disaster vocabulary — quake/flood/fire/rescue/death toll) but temporally distributed across Feb, Aug, Sep and Oct 2023. Under a strict month-level Jaccard, temporal entanglement is low because each event occupies a distinct month cluster. This is a known characteristic of the pilot cluster and is documented as a warning (see blockers.md)."
+}

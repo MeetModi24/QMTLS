@@ -1,0 +1,31 @@
+{
+  "subtopic": "c9_c_libya_floods",
+  "timeline_dates": [
+    "2023-09-04",
+    "2023-09-05",
+    "2023-09-07",
+    "2023-09-09",
+    "2023-09-10",
+    "2023-09-11",
+    "2023-09-12",
+    "2023-09-13",
+    "2023-09-14",
+    "2023-09-15",
+    "2023-09-16",
+    "2023-09-17",
+    "2023-09-18",
+    "2023-09-19",
+    "2023-09-20",
+    "2023-09-25",
+    "2023-10-01",
+    "2023-10-10",
+    "2023-11-15"
+  ],
+  "n_timeline_dates": 19,
+  "n_article_dates_with_pub_date": 7,
+  "n_articles_total": 25,
+  "tol_days": 3,
+  "covered_timeline_dates": 12,
+  "coverage_ratio": 0.632,
+  "notes": "coverage_ratio = fraction of distinct timeline dates that have ≥1 article with pub_date within ±3 days. Many article URLs could not be assigned a pub_date from URL alone, so this is a lower bound."
+}

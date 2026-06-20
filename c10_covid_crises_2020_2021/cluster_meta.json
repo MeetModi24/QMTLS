@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c10",
+  "cluster_name": "COVID-19 & Co-occurring Crises 2020-2021",
+  "time_range": {"start": "2020-03-01", "end": "2021-12-31"},
+  "subtopics": ["c10_a_covid_pandemic", "c10_b_vaccine_rollout", "c10_c_blm_protests", "c10_d_capitol_jan6"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": false,
+  "entanglement_rationale": "The pandemic and its vaccine response unfolded alongside the BLM protests and January 6 events, with each crisis amplifying the political and social tensions of the others.",
+  "status": "in_progress"
+}

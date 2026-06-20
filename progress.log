@@ -1,0 +1,11 @@
+2026-04-22 Step 0 scaffolding initialized.
+2026-04-22 Directory structure created for all 12 clusters + c9 sub-topics.
+2026-04-22 Wrote cluster_config.json, queries_seed.json, reputable_outlets.json, aggregator_blocklist.json, validate_benchmark.py, BENCHMARK_STATUS.md, blockers.md.
+
+2026-04-22 — Phases 2-6 complete for C9.
+- Phase 2: article_urls.jsonl written for all 4 sub-topics (24-27 URLs each; far below 300 target, documented in blockers.md).
+- Phase 3: coverage_report.json written per sub-topic (range 0.57-0.85).
+- Phase 4: entanglement_metrics.json written (min temporal 0.000, min lexical 0.031; both below thresholds by design of pilot cluster).
+- Phase 5: datasheet.md written (Gebru template, 10 sections).
+- Phase 6: cluster_report.md written.
+- Validation: validate_benchmark.py --cluster c9_disasters_2023 → 23 PASS, 4 WARN, 6 FAIL (exit 1). validation_report_c9.json written. All 6 failures are documented in blockers.md.

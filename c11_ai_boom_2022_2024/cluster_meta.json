@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c11",
+  "cluster_name": "AI Boom 2022-2024",
+  "time_range": {"start": "2022-11-01", "end": "2024-12-31"},
+  "subtopics": ["c11_a_chatgpt_openai", "c11_b_altman_ouster", "c11_c_eu_ai_act", "c11_d_big_tech_ai"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": false,
+  "entanglement_rationale": "ChatGPT's launch triggered a chain reaction: corporate governance crises at OpenAI, an arms race among Big Tech labs, and accelerated regulatory action like the EU AI Act.",
+  "status": "in_progress"
+}

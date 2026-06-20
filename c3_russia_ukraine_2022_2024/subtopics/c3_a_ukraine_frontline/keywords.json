@@ -1,0 +1,39 @@
+{
+  "subtopic_id": "c3_a_ukraine_frontline",
+  "canonical_keywords": [
+    "Russian invasion of Ukraine",
+    "war in Ukraine"
+  ],
+  "entity_keywords": [
+    "Volodymyr Zelensky",
+    "Vladimir Putin",
+    "Valery Zaluzhny",
+    "Oleksandr Syrskyi",
+    "Sergei Shoigu",
+    "Bakhmut",
+    "Avdiivka",
+    "Mariupol",
+    "Kherson",
+    "Kharkiv",
+    "Kursk Oblast",
+    "Donbas",
+    "Crimea",
+    "Armed Forces of Ukraine"
+  ],
+  "event_keywords": [
+    "Battle of Bakhmut",
+    "fall of Avdiivka February 2024",
+    "Kharkiv counteroffensive September 2022",
+    "liberation of Kherson November 2022",
+    "Ukrainian Kursk incursion August 2024",
+    "siege of Mariupol",
+    "Crimean Bridge attacks"
+  ],
+  "broader_context": [
+    "HIMARS deliveries to Ukraine",
+    "F-16 transfer to Ukraine",
+    "ATACMS missile supply",
+    "Black Sea Grain Initiative",
+    "Russian partial mobilization"
+  ]
+}

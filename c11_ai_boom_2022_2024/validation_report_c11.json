@@ -1,0 +1,199 @@
+{
+  "cluster_id": "c11",
+  "cluster_dir": "C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024",
+  "cluster_passes": false,
+  "checks": [
+    {
+      "name": "structure.subtopic_count",
+      "passed": true,
+      "message": "4 sub-topics",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_a_chatgpt_openai.timelines.jsonl",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_a_chatgpt_openai\\timelines.jsonl",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_a_chatgpt_openai.timeline_sources.json",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_a_chatgpt_openai\\timeline_sources.json",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_a_chatgpt_openai.coverage_report.json",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_a_chatgpt_openai\\coverage_report.json",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_b_altman_ouster.timelines.jsonl",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_b_altman_ouster\\timelines.jsonl",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_b_altman_ouster.timeline_sources.json",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_b_altman_ouster\\timeline_sources.json",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_b_altman_ouster.coverage_report.json",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_b_altman_ouster\\coverage_report.json",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_c_eu_ai_act.timelines.jsonl",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_c_eu_ai_act\\timelines.jsonl",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_c_eu_ai_act.timeline_sources.json",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_c_eu_ai_act\\timeline_sources.json",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_c_eu_ai_act.coverage_report.json",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_c_eu_ai_act\\coverage_report.json",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_d_big_tech_ai.timelines.jsonl",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_d_big_tech_ai\\timelines.jsonl",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_d_big_tech_ai.timeline_sources.json",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_d_big_tech_ai\\timeline_sources.json",
+      "level": "error"
+    },
+    {
+      "name": "structure.c11_d_big_tech_ai.coverage_report.json",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\subtopics\\c11_d_big_tech_ai\\coverage_report.json",
+      "level": "error"
+    },
+    {
+      "name": "structure.required_files",
+      "passed": false,
+      "message": "all required files present in 4 sub-topics",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_a_chatgpt_openai.count",
+      "passed": true,
+      "message": "600 articles",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_a_chatgpt_openai.outlet_diversity",
+      "passed": true,
+      "message": "top outlet Businessinsider = 4%",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_a_chatgpt_openai.preview_length",
+      "passed": true,
+      "message": "all previews \u2264200 chars",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_a_chatgpt_openai.fulltext_leak",
+      "passed": true,
+      "message": "no full-text leak detected",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_b_altman_ouster.count",
+      "passed": false,
+      "message": "135 articles (< 200 hard fail)",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_b_altman_ouster.outlet_diversity",
+      "passed": true,
+      "message": "top outlet TechCrunch = 7%",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_b_altman_ouster.preview_length",
+      "passed": true,
+      "message": "all previews \u2264200 chars",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_b_altman_ouster.fulltext_leak",
+      "passed": true,
+      "message": "no full-text leak detected",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_c_eu_ai_act.count",
+      "passed": true,
+      "message": "600 articles",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_c_eu_ai_act.outlet_diversity",
+      "passed": true,
+      "message": "top outlet Jdsupra = 6%",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_c_eu_ai_act.preview_length",
+      "passed": true,
+      "message": "all previews \u2264200 chars",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_c_eu_ai_act.fulltext_leak",
+      "passed": true,
+      "message": "no full-text leak detected",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_d_big_tech_ai.count",
+      "passed": true,
+      "message": "483 articles",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_d_big_tech_ai.outlet_diversity",
+      "passed": true,
+      "message": "top outlet Androidpolice = 7%",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_d_big_tech_ai.preview_length",
+      "passed": true,
+      "message": "all previews \u2264200 chars",
+      "level": "error"
+    },
+    {
+      "name": "articles.c11_d_big_tech_ai.fulltext_leak",
+      "passed": true,
+      "message": "no full-text leak detected",
+      "level": "error"
+    },
+    {
+      "name": "entanglement.present",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\entanglement_metrics.json",
+      "level": "error"
+    },
+    {
+      "name": "datasheet.present",
+      "passed": false,
+      "message": "missing C:\\Users\\modim\\Downloads\\Q-MTLS-benchmark\\benchmark\\c11_ai_boom_2022_2024\\datasheet.md",
+      "level": "error"
+    }
+  ]
+}

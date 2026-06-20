@@ -1,0 +1,83 @@
+{
+  "subtopic_id": "c1_c_yemen",
+  "canonical_keyword": "Yemen conflict Saudi coalition",
+  "window": {"start": "2019-01-01", "end": "2020-12-31"},
+  "timelines": [
+    {
+      "timeline_id": "c1_c_tl1",
+      "outlet": "Al Jazeera",
+      "primary_source_url": "https://www.aljazeera.com/news/2019/9/21/yemen-war-5-years-since-the-houthis-sanaa-takeover",
+      "supporting_source_urls": [
+        "https://www.aljazeera.com/news/2020/3/26/after-five-years-of-war-in-yemen-battles-continue-to-rage",
+        "https://www.aljazeera.com/news/2019/7/11/saudi-arabia-moves-to-secure-yemen-ports-after-uae-drawdown",
+        "https://www.aljazeera.com/opinions/2020/3/19/the-us-is-complicit-in-saudi-atrocities-in-yemen",
+        "https://www.aljazeera.com/news/2020/4/24/saudi-led-coalition-extends-unilateral-yemen-ceasefire-by-a-month",
+        "https://www.aljazeera.com/news/2019/6/22/yemen-escalation-why-houthis-ramp-up-attacks-on-saudi-arabia",
+        "https://www.aljazeera.com/news/2020/6/22/yemen-government-southern-separatists-agree-to-ceasefire",
+        "https://www.aljazeera.com/news/2019/9/30/yemens-houthi-rebels-release-saudi-attack-video",
+        "https://www.aljazeera.com/news/2020/7/29/yemens-riyadh-agreement-an-overview",
+        "https://www.aljazeera.com/news/2020/4/26/timeline-history-of-separatism-in-southern-yemen"
+      ],
+      "entries": 23,
+      "selection_rationale": "Al Jazeera's 21 Sep 2019 anniversary overview was the strongest single anchor for the cluster's middle phase but it had only ~8 day-precise in-window entries on its own. Combining it with the dated Riyadh-Agreement overview (29 Jul 2020), the southern-separatism timeline (26 Apr 2020), and seven event-specific reports surfaced enough day-level events to exceed the 15-entry floor. All ten URLs are from aljazeera.com (no AJ America, no AJ Arabic).",
+      "approximation_notes": [
+        "2019-05-13: source says 'In May 2019'; UN announced Hodeidah pullback mid-month. Set to 13 May as defensible mid-month anchor.",
+        "2019-06-17: source says 'On Monday' before the 22 Jun 2019 article. Monday before that date was 17 Jun.",
+        "2019-08-07: source says 'Last Wednesday' relative to articles dated 12 Aug 2019 → 7 Aug.",
+        "2019-08-29: source says 'late August' for Hadi-force entry; corroborated by photo timestamp 29 Aug 2019 in the AJ 31 Aug context. Set to 29 Aug.",
+        "2019-08-30: UAE confirmed airstrikes the day after government's brief entry. Set to 30 Aug.",
+        "2019-09-15: source says 'In September' for the Saudi warning. Set to 15 Sep as defensible mid-month anchor.",
+        "2020-04-09: source describes 'two-week ceasefire ended on Thursday' (23 Apr). Walked back two weeks to 9 Apr."
+      ],
+      "factual_disagreements": [
+        "Najran cross-border attack (Aug 2019): Houthi spokesman claimed 500 Saudi forces killed/wounded and thousands captured. Al Jazeera notes Saudi Arabia did not respond to the claim and AJ could not independently verify. Wikipedia and Reuters at the time also could not confirm the scale. Timeline records the broadcast date (29 Sep 2019) and the claim, not the casualty figure.",
+        "Aug 2019 Aden clashes casualty count: AJ separatism timeline cites '40 dead, 260 wounded' per UN; CNN's reporting matches; some Yemeni government sources put figures higher. Used the UN tally."
+      ]
+    },
+    {
+      "timeline_id": "c1_c_tl2",
+      "outlet": "CNN",
+      "primary_source_url": "https://www.cnn.com/world/middleeast/yemen-fast-facts",
+      "supporting_source_urls": [
+        "https://edition.cnn.com/2019/08/31/middleeast/yemen-saudi-coalition-collapse-intl",
+        "https://edition.cnn.com/2019/08/12/middleeast/yemens-civil-war-within-a-civil-war-sarah-sirgany-intl",
+        "https://edition.cnn.com/2019/09/14/middleeast/yemen-houthi-rebels-drone-attacks-saudi-aramco-intl",
+        "https://edition.cnn.com/2019/11/07/politics/elizabeth-warren-yemen-cnn-report-intl",
+        "https://edition.cnn.com/interactive/2019/02/middleeast/yemen-lost-us-arms/",
+        "https://edition.cnn.com/2019/10/18/world/american-weapons-yemen-war-intl",
+        "https://edition.cnn.com/2019/02/05/middleeast/yemen-us-centcom-weapons-intl/index.html",
+        "https://edition.cnn.com/2019/02/22/middleeast/yemen-us-weapons-report-elizabeth-warren-intl/index.html",
+        "https://edition.cnn.com/2019/10/23/politics/elizabeth-warren-letter-yemen-cnn-investigation-intl/index.html",
+        "https://edition.cnn.com/2019/11/05/middleeast/yemen-saudi-us-arms-footage-intl/index.html"
+      ],
+      "entries": 16,
+      "selection_rationale": "CNN's Yemen Fast Facts page anchored the cluster with the cleanest dated entries (Feb 2019 investigation, May 2019 food-aid investigation, Jun 2019 ACLED figures, Aug 11 separatist takeover, Jan 19 2020 Marib mosque attack, Dec 26 2020 cabinet swearing-in). On its own that produced only ~6 day-precise in-window events, so the six user-provided event-specific URLs plus four closely-related follow-up CNN pieces were combined to reach 16. All URLs are cnn.com/edition.cnn.com.",
+      "approximation_notes": [
+        "2019-02-04: Fast Facts/CNN follow-ups reference 'February 2019' investigation; CNN published the exclusive on a Monday and CENTCOM testified Tuesday 5 Feb, fixing publication date to 4 Feb 2019.",
+        "2019-05-15: Fast Facts says 'May 2019' for food-aid investigation; no day-of given. Set to 15 May as defensible mid-month anchor.",
+        "2019-06-15: ACLED 91000+ tally reported in 'June 2019' per Fast Facts and Warren's letter; set to 15 Jun as defensible mid-month anchor.",
+        "2019-08-07: CNN 12 Aug 2019 article says 'Last Wednesday' → 7 Aug.",
+        "2019-08-29: photo caption in CNN 31 Aug 2019 article dates separatist victory pose to 29 Aug.",
+        "2019-08-31: article publication date; described UAE airstrikes 'this week' on government forces.",
+        "2019-11-05: CNN 7 Nov piece refers to peace deal 'signed on Tuesday in the Saudi capital'; Tuesday before 7 Nov was 5 Nov."
+      ],
+      "factual_disagreements": [
+        "Aramco strike origin (14 Sep 2019): CNN reports Houthis claimed responsibility with 10 drones, but also that preliminary US/Saudi indications suggested the attack originated from Iraq rather than Yemen. Timeline records the rebel claim and the impact; attribution itself remained disputed.",
+        "ACLED fatality figure (Jun 2019, 91000+): CNN cites ACLED. Other counts at the time (UN OCHA, Yemen Data Project) used different methodologies and lower or higher cumulative figures. Used the ACLED number as cited by CNN.",
+        "Marib mosque attack (19 Jan 2020): casualty count varies across CNN Fast Facts, AJ, and Yemeni government figures. CNN's Fast Facts records 'at least 80 killed, 130+ injured' per the UN envoy; some Yemeni sources put deaths above 100. Used the UN envoy figure as cited by CNN."
+      ]
+    }
+  ],
+  "cross_outlet_disagreements": [
+    "Riyadh Agreement signing date: both outlets agree on 5 Nov 2019 (Tuesday) in Riyadh.",
+    "Aramco strike (14 Sep 2019): both outlets agree on the date and target (Abqaiq + Khurais) but differ on attribution confidence — AJ frames as Houthi-claimed with rebel video; CNN frames as Houthi-claimed but with US/Saudi indications pointing to Iraq.",
+    "Aden Aug 2019 clashes: AJ and CNN converge on 40 dead / 260 wounded over four days of fighting starting 7 Aug, with separatist control by 11 Aug."
+  ],
+  "method_notes": {
+    "format": "JSONL, one timeline per line; entries are arrays of {date, summary} where summary is a list of strings.",
+    "date_format": "YYYY-MM-DD strict.",
+    "paraphrase_constraints": "Each summary string <= 15 normalized tokens; zero 5-gram overlap with the outlet's source corpus.",
+    "private_individuals": "No private individuals named. Public officials referenced by office (e.g. 'the senator', 'the US Central Command chief') rather than name to keep the timelines event-centred.",
+    "wikipedia_use": "Not used as primary source for either timeline. Britannica and other secondary references were not relied upon."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "subtopic_id": "c10_d_capitol_jan6",
+  "canonical_keywords": [
+    "January 6 United States Capitol attack",
+    "2021 storming of the United States Capitol"
+  ],
+  "entity_keywords": [
+    "Donald Trump",
+    "Mike Pence",
+    "Nancy Pelosi",
+    "United States Capitol Police",
+    "Brian Sicknick",
+    "Ashli Babbitt",
+    "Proud Boys",
+    "Oath Keepers",
+    "Stewart Rhodes",
+    "Enrique Tarrio",
+    "Liz Cheney",
+    "Bennie Thompson"
+  ],
+  "event_keywords": [
+    "Save America rally at the Ellipse",
+    "Capitol breach January 6 2021",
+    "joint session of Congress interruption",
+    "Ashli Babbitt shooting",
+    "Trump second impeachment",
+    "January 6 Select Committee hearings",
+    "Oath Keepers seditious conspiracy convictions"
+  ],
+  "broader_context": [
+    "2020 election fraud claims",
+    "Stop the Steal movement",
+    "presidential transition certification",
+    "Electoral Count Reform Act"
+  ]
+}

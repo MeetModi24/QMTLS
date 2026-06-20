@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c4",
+  "cluster_name": "Israel-Gaza-Lebanon-Iran 2023-2024",
+  "time_range": {"start": "2023-10-01", "end": "2024-12-31"},
+  "subtopics": ["c4_a_gaza_war", "c4_b_hezbollah_israel", "c4_c_houthi_red_sea", "c4_d_iran_strikes"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": true,
+  "entanglement_rationale": "Following October 7, the Gaza war triggered a multi-front escalation across the Iran-led axis, with Hezbollah, Houthi, and direct Iranian actions all linked to the same regional conflict spiral.",
+  "status": "in_progress"
+}

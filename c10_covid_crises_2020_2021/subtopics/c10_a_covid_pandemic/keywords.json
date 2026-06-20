@@ -1,0 +1,36 @@
+{
+  "subtopic_id": "c10_a_covid_pandemic",
+  "canonical_keywords": [
+    "COVID-19 pandemic",
+    "coronavirus pandemic"
+  ],
+  "entity_keywords": [
+    "World Health Organization",
+    "Tedros Adhanom Ghebreyesus",
+    "Anthony Fauci",
+    "Centers for Disease Control and Prevention",
+    "Wuhan",
+    "SARS-CoV-2",
+    "Delta variant",
+    "Omicron variant",
+    "Boris Johnson",
+    "Andrew Cuomo",
+    "Narendra Modi",
+    "Xi Jinping"
+  ],
+  "event_keywords": [
+    "World Health Organization pandemic declaration March 11 2020",
+    "Wuhan lockdown January 2020",
+    "Italy nationwide lockdown March 2020",
+    "India Delta wave April-May 2021",
+    "Omicron variant emergence November 2021",
+    "Shanghai lockdown 2022"
+  ],
+  "broader_context": [
+    "China zero-COVID policy",
+    "lab leak hypothesis",
+    "global supply chain disruptions",
+    "remote work transition",
+    "long COVID"
+  ]
+}

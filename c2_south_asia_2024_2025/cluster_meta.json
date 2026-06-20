@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c2",
+  "cluster_name": "South Asia 2024-2025",
+  "time_range": {"start": "2024-07-01", "end": "2025-12-31"},
+  "subtopics": ["c2_a_operation_sindoor", "c2_b_bangladesh_transition", "c2_c_afghanistan_taliban", "c2_d_kashmir"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": true,
+  "entanglement_rationale": "Concurrent regional security and political shifts across South Asia where India's posture, cross-border militancy, and neighboring regime changes mutually influenced each other.",
+  "status": "in_progress"
+}

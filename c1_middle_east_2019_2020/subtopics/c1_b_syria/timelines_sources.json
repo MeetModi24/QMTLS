@@ -1,0 +1,35 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c1_b_tl1",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2019/10/7/timeline-us-intervention-in-syrias-war-since-2011",
+      "num_entries": 20,
+      "notes": "Fetched 2026-05-09. The primary URL (US-intervention timeline) only contains roughly five dated entries inside the 2019-2020 cluster window, so coverage was combined with additional Al Jazeera articles to reach 15+ dated entries on the Syria civil war subtopic. Supplementary AJ articles used: https://www.aljazeera.com/news/2019/5/14/syrian-govt-seeking-to-sabotage-turkey-russia-relations (April 28 offensive start; May 14 Erdogan remarks), https://www.aljazeera.com/news/2019/5/19/russia-announces-unilateral-ceasefire-by-syrian-forces-in-idlib (May 19 ceasefire), https://www.aljazeera.com/news/2019/9/1/russia-slams-us-for-indiscriminate-attack-in-syrias-idlib (August 31 Moscow-brokered truce; September 1 US strike on Hurras al-Deen), https://www.aljazeera.com/news/2019/10/23/turkey-russia-reach-deal-for-ypg-move-out-of-syria-border-area/ (October 17 US-Turkey pause; October 22 Sochi talks; October 23 Russia-Turkey deal), https://www.aljazeera.com/news/2019/10/27/isil-chief-abu-bakr-al-baghdadi-killed-in-syria-confirms-trump (October 27 Baghdadi raid), https://www.aljazeera.com/news/2019/10/28/us-says-it-took-two-prisoners-during-al-baghdadi-raid/ (October 28 captives), https://www.aljazeera.com/news/2019/11/1/isil-confirms-death-of-leader-al-baghdadi-names-new-chief (October 31 successor named), https://www.aljazeera.com/news/2019/12/turkey-presses-russia-truce-syria-idlib-official-191224163940208.html (December 24 Ankara pushes for new truce), https://www.aljazeera.com/news/2020/2/12/the-battle-for-syrias-idlib-explained-in-400-words (February 3 Turkish soldiers killed context), https://www.aljazeera.com/indepth/opinion/long-turkish-russian-deal-idlib-200316135110613.html (March 5 Putin-Erdogan deal; March 7 HTS rejection). Single-article coverage was insufficient for 15+ entries on a fast-moving conflict; combining AJ coverage was the closest equivalent to what the AJ Soleimani timeline does in a single piece."
+    },
+    {
+      "timeline_id": "c1_b_tl2",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2019/10/09/768490136/turkish-forces-launch-military-operation-against-kurds-at-syrian-border",
+      "num_entries": 22,
+      "notes": "Fetched 2026-05-09 via search. NPR's robots.txt blocked web_fetch on all attempted URLs."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Date of ISIL caliphate's territorial defeat",
+      "sources": ["Al Jazeera (c1_b_tl1)", "NPR (c1_b_tl2)"],
+      "note": "Al Jazeera's US-intervention timeline dates the SDF announcement to March 2019 without specifying a day, while NPR's coverage marked the announcement on March 22-23 2019. Both files use March 23, 2019, the date of the SDF declaration."
+    },
+    {
+      "topic": "Turkish soldier deaths in Idlib (February 2020)",
+      "sources": ["Al Jazeera (c1_b_tl1)", "NPR (c1_b_tl2)"],
+      "note": "Al Jazeera's 400-word Idlib explainer treats the late-February escalation as 'several' Turkish personnel killed across multiple incidents; NPR's February 3 dispatch reports at least six Turkish soldiers killed by an artillery strike attributed by Ankara to Damascus. Both files use February 3, 2020 for the deadliest single incident named by Ankara."
+    },
+    {
+      "topic": "Civilian casualties during the Baghdadi raid",
+      "sources": ["Al Jazeera (c1_b_tl1)", "NPR (c1_b_tl2)"],
+      "note": "Al Jazeera's coverage of the October 27, 2019 raid does not mention civilian casualties beyond Baghdadi's children, while NPR developed an independent line of reporting from December 2019 onwards alleging US helicopter fire killed and injured Syrian civilians near the compound. NPR coverage is reflected on December 3 2019, March 13 2020, and October 27 2020 entries; AJ coverage is reflected only on October 27 2019."
+    }
+  ]
+}

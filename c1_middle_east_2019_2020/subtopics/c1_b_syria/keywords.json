@@ -1,0 +1,35 @@
+{
+  "subtopic_id": "c1_b_syria",
+  "canonical_keywords": [
+    "Syrian civil war",
+    "Syrian conflict"
+  ],
+  "entity_keywords": [
+    "Bashar al-Assad",
+    "Syrian Democratic Forces",
+    "Hayat Tahrir al-Sham",
+    "Recep Tayyip Erdogan",
+    "Vladimir Putin",
+    "Kurdish People's Protection Units",
+    "Idlib Governorate",
+    "Northeast Syria",
+    "Islamic State of Iraq and the Levant",
+    "Abu Bakr al-Baghdadi",
+    "Mazloum Abdi",
+    "Ras al-Ayn"
+  ],
+  "event_keywords": [
+    "Turkish offensive into northeast Syria October 2019",
+    "Battle of Baghuz Fawqani",
+    "Barisha raid killing of al-Baghdadi",
+    "Idlib offensive 2019-2020",
+    "Sochi memorandum Turkey Russia",
+    "M4 highway joint patrols"
+  ],
+  "broader_context": [
+    "United States troop withdrawal from Syria",
+    "Autonomous Administration of North and East Syria",
+    "Caesar Syria Civilian Protection Act",
+    "Syrian refugee crisis"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "cluster_id": "c9",
+  "cluster_dir": "/sessions/loving-optimistic-newton/mnt/Downloads/benchmark/c9_disasters_2023",
+  "cluster_passes": false,
+  "checks": [
+    {
+      "name": "structure.subtopic_count",
+      "passed": true,
+      "message": "4 sub-topics",
+      "level": "error"
+    },
+    {
+      "name": "structure.required_files",
+      "passed": true,
+      "message": "all required files present in 4 sub-topics",
+      "level": "error"
+    },
+    {
+      "name": "timelines.c9_a_turkey_syria_eq.count",
+      "passed": true,
+      "message": "2 timelines",
+      "level": "error"
+    },
+    {
+      "name": "timelines.c9_a_turkey_syria_eq.outlet_diversity",
+      "passed": true,
+      "message": "2 distinct outlets",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_a_turkey_syria_eq.count",
+      "passed": false,
+      "message": "25 articles (< 200 hard fail)",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_a_turkey_syria_eq.outlet_diversity",
+      "passed": true,
+      "message": "top outlet CNN = 36%",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_a_turkey_syria_eq.preview_length",
+      "passed": true,
+      "message": "all previews \u2264200 chars",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_a_turkey_syria_eq.fulltext_leak",
+      "passed": true,
+      "message": "no full-text leak detected",
+      "level": "error"
+    },
+    {
+      "name": "coverage.c9_a_turkey_syria_eq",
+      "passed": true,
+      "message": "coverage_ratio = 0.59 (< 0.85 recommended)",
+      "level": "warn"
+    },
+    {
+      "name": "timelines.c9_b_morocco_eq.count",
+      "passed": true,
+      "message": "2 timelines",
+      "level": "error"
+    },
+    {
+      "name": "timelines.c9_b_morocco_eq.outlet_diversity",
+      "passed": true,
+      "message": "2 distinct outlets",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_b_morocco_eq.count",
+      "passed": false,
+      "message": "24 articles (< 200 hard fail)",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_b_morocco_eq.outlet_diversity",
+      "passed": true,
+      "message": "top outlet CNN = 25%",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_b_morocco_eq.preview_length",
+      "passed": true,
+      "message": "all previews \u2264200 chars",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_b_morocco_eq.fulltext_leak",
+      "passed": true,
+      "message": "no full-text leak detected",
+      "level": "error"
+    },
+    {
+      "name": "coverage.c9_b_morocco_eq",
+      "passed": true,
+      "message": "coverage_ratio = 0.85 (< 0.85 recommended)",
+      "level": "warn"
+    },
+    {
+      "name": "timelines.c9_c_libya_floods.count",
+      "passed": true,
+      "message": "2 timelines",
+      "level": "error"
+    },
+    {
+      "name": "timelines.c9_c_libya_floods.outlet_diversity",
+      "passed": true,
+      "message": "2 distinct outlets",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_c_libya_floods.count",
+      "passed": false,
+      "message": "25 articles (< 200 hard fail)",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_c_libya_floods.outlet_diversity",
+      "passed": true,
+      "message": "top outlet France 24 = 24%",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_c_libya_floods.preview_length",
+      "passed": true,
+      "message": "all previews \u2264200 chars",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_c_libya_floods.fulltext_leak",
+      "passed": true,
+      "message": "no full-text leak detected",
+      "level": "error"
+    },
+    {
+      "name": "coverage.c9_c_libya_floods",
+      "passed": true,
+      "message": "coverage_ratio = 0.63 (< 0.85 recommended)",
+      "level": "warn"
+    },
+    {
+      "name": "timelines.c9_d_maui_fires.count",
+      "passed": true,
+      "message": "2 timelines",
+      "level": "error"
+    },
+    {
+      "name": "timelines.c9_d_maui_fires.outlet_diversity",
+      "passed": true,
+      "message": "2 distinct outlets",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_d_maui_fires.count",
+      "passed": false,
+      "message": "27 articles (< 200 hard fail)",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_d_maui_fires.outlet_diversity",
+      "passed": true,
+      "message": "top outlet PBS NewsHour = 22%",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_d_maui_fires.preview_length",
+      "passed": true,
+      "message": "all previews \u2264200 chars",
+      "level": "error"
+    },
+    {
+      "name": "articles.c9_d_maui_fires.fulltext_leak",
+      "passed": true,
+      "message": "no full-text leak detected",
+      "level": "error"
+    },
+    {
+      "name": "coverage.c9_d_maui_fires",
+      "passed": true,
+      "message": "coverage_ratio = 0.57 (< 0.85 recommended)",
+      "level": "warn"
+    },
+    {
+      "name": "entanglement.min_temporal_overlap",
+      "passed": false,
+      "message": "min_temporal_overlap = 0.000 (need \u22650.6)",
+      "level": "error"
+    },
+    {
+      "name": "entanglement.min_lexical_jaccard",
+      "passed": false,
+      "message": "min_lexical_jaccard = 0.031 (need \u22650.15)",
+      "level": "error"
+    },
+    {
+      "name": "datasheet.sections",
+      "passed": true,
+      "message": "all required sections present",
+      "level": "error"
+    }
+  ]
+}

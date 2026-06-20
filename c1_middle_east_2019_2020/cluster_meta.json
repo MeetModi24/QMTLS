@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c1",
+  "cluster_name": "Middle East Flashpoint 2019-2020",
+  "time_range": {"start": "2019-01-01", "end": "2020-12-31"},
+  "subtopics": ["c1_a_us_iran", "c1_b_syria", "c1_c_yemen", "c1_d_israel_palestine"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": true,
+  "entanglement_rationale": "These four conflicts share overlapping state and proxy actors (Iran, Saudi Arabia, US, Israel) whose moves in one theater directly shaped escalation in the others during 2019-2020.",
+  "status": "in_progress"
+}

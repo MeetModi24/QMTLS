@@ -1,0 +1,34 @@
+{
+  "subtopic_id": "c3_b_sanctions",
+  "canonical_keywords": [
+    "Sanctions against Russia",
+    "Western sanctions on Russia"
+  ],
+  "entity_keywords": [
+    "European Union",
+    "US Treasury Department",
+    "Office of Foreign Assets Control",
+    "Group of Seven",
+    "SWIFT",
+    "Sberbank",
+    "VTB Bank",
+    "Central Bank of Russia",
+    "Roman Abramovich",
+    "Alisher Usmanov",
+    "Rosneft",
+    "Gazprom"
+  ],
+  "event_keywords": [
+    "SWIFT exclusion of Russian banks",
+    "Russian central bank reserves freeze",
+    "G7 oil price cap December 2022",
+    "EU oil embargo on Russia",
+    "yacht and asset seizures"
+  ],
+  "broader_context": [
+    "European energy decoupling from Russia",
+    "ruble depreciation",
+    "shadow fleet of tankers",
+    "secondary sanctions enforcement"
+  ]
+}

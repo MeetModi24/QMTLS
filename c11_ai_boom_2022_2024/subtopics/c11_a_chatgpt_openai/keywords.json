@@ -1,0 +1,33 @@
+{
+  "subtopic_id": "c11_a_chatgpt_openai",
+  "canonical_keywords": [
+    "ChatGPT",
+    "launch of ChatGPT"
+  ],
+  "entity_keywords": [
+    "OpenAI",
+    "Sam Altman",
+    "Greg Brockman",
+    "Ilya Sutskever",
+    "Mira Murati",
+    "Generative Pre-trained Transformer 3.5",
+    "Generative Pre-trained Transformer 4",
+    "Microsoft",
+    "Satya Nadella",
+    "InstructGPT",
+    "reinforcement learning from human feedback"
+  ],
+  "event_keywords": [
+    "ChatGPT public release November 30 2022",
+    "GPT-4 release March 14 2023",
+    "ChatGPT 100 million users milestone January 2023",
+    "ChatGPT Plus subscription launch February 2023",
+    "GPT Store launch January 2024"
+  ],
+  "broader_context": [
+    "large language models",
+    "Microsoft-OpenAI partnership",
+    "Bing chat integration",
+    "AI safety debate"
+  ]
+}

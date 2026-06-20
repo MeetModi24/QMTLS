@@ -1,0 +1,30 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c1_a_tl1",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2020/1/8/us-iran-tensions-timeline-of-events-leading-to-soleimani-killing",
+      "num_entries": 57,
+      "notes": "Fetched 2026-05-09. Comprehensive day-by-day timeline article with single-article coverage of US-Iran escalation from JCPOA withdrawal through Iran's January 8 missile retaliation. Pre-2019 entries dropped to fit cluster window. Uses ET dates for US events, local dates for Iranian and Iraqi events as published."
+    },
+    {
+      "timeline_id": "c1_a_tl2",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/2020/01/07/politics/qasem-soleimani-reasons-justifications",
+      "num_entries": 19,
+      "notes": "Fetched 2026-05-09. Primary article covers the evolving justification narrative with dated officials' statements. Supplementary CNN articles drew dated events not present in the primary: https://www.cnn.com/2020/01/02/middleeast/baghdad-airport-rockets (Dec 27, Dec 31, Jan 3 strike, Jan 4 Taji and Green Zone), https://edition.cnn.com/2020/01/03/politics/donald-trump-qasem-soleimani-tick-tock-timeline (Dec 29 strikes), https://www.cnn.com/2020/01/04/middleeast/qasem-soleimani-airstrike-saturday (Jan 4 funeral, 52-target threat), https://www.cnn.com/2020/01/04/politics/white-house-notify-congress-soleimani (Jan 4 War Powers notice), https://www.cnn.com/2020/01/18/politics/trump-soleimani-details-mar-a-lago (Jan 17 donor dinner). Single-article coverage was insufficient for 15+ entries; combining CNN coverage was the most defensible alternative within the user-provided URL set."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Date attribution of Soleimani killing",
+      "sources": ["Al Jazeera (c1_a_tl1)", "CNN (c1_a_tl2)"],
+      "note": "Al Jazeera dates the strike to January 3, 2020 using local Baghdad time; CNN's reporting variously frames it as Thursday January 2 (ET) or Friday January 3. Both files retain January 3 for the strike itself for consistency with the locally published date."
+    },
+    {
+      "topic": "Date of Iran missile retaliation",
+      "sources": ["Al Jazeera (c1_a_tl1)", "CNN (c1_a_tl2)"],
+      "note": "Al Jazeera reports the missile attacks as January 8 in early Iraqi-local hours. CNN refers to the strikes as 'Tuesday night' (January 7 ET). Both files use January 8 to align with the date most widely cited in subsequent coverage."
+    }
+  ]
+}

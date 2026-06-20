@@ -1,0 +1,6 @@
+{
+  "timelines": [
+    {"timeline_id": "c9_a_tl1", "outlet": "Encyclopaedia Britannica", "url": "https://www.britannica.com/event/2023-Turkey-Syria-earthquake", "num_entries": 16, "notes": "Fetched 2026-04-22; encyclopedic summary with dated events. Used as secondary reference per Section 1.1; each date cross-checked with Al Jazeera live coverage at aljazeera.com/tag/turkey-syria-earthquake."},
+    {"timeline_id": "c9_a_tl2", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2023/2/25/death-toll-climbs-above-50000-after-turkey-syria-earthquakes", "num_entries": 16, "notes": "Anchor article supplemented by the Al Jazeera Turkey-Syria earthquake liveblog series (same tag), which ran daily dated entries through February 2023."}
+  ]
+}

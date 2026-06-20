@@ -1,0 +1,35 @@
+{
+  "subtopic_id": "c10_c_blm_protests",
+  "canonical_keywords": [
+    "George Floyd protests",
+    "2020 Black Lives Matter protests"
+  ],
+  "entity_keywords": [
+    "George Floyd",
+    "Derek Chauvin",
+    "Minneapolis",
+    "Minneapolis Police Department",
+    "Black Lives Matter",
+    "Breonna Taylor",
+    "Ahmaud Arbery",
+    "Jacob Blake",
+    "Kenosha",
+    "Lafayette Square",
+    "Portland Oregon",
+    "Tim Walz"
+  ],
+  "event_keywords": [
+    "killing of George Floyd May 25 2020",
+    "burning of Minneapolis Third Precinct",
+    "Lafayette Square clearing June 1 2020",
+    "Chauvin conviction April 2021",
+    "Capitol Hill Organized Protest Seattle",
+    "removal of Confederate monuments"
+  ],
+  "broader_context": [
+    "police reform debate",
+    "defund the police movement",
+    "qualified immunity",
+    "Confederate statue removal"
+  ]
+}

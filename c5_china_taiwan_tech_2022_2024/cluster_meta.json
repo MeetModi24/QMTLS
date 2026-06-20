@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c5",
+  "cluster_name": "China-Taiwan-US Tech 2022-2024",
+  "time_range": {"start": "2022-01-01", "end": "2024-12-31"},
+  "subtopics": ["c5_a_taiwan_strait", "c5_b_chip_export_controls", "c5_c_hong_kong", "c5_d_south_china_sea"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": false,
+  "entanglement_rationale": "These four threads are facets of intensifying US-China strategic rivalry, where military posturing, technology decoupling, and territorial assertion in the Indo-Pacific reinforce one another.",
+  "status": "in_progress"
+}

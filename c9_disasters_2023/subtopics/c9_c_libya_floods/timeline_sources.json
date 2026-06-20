@@ -1,0 +1,6 @@
+{
+  "timelines": [
+    {"timeline_id": "c9_c_tl1", "outlet": "Encyclopaedia Britannica", "url": "https://www.britannica.com/event/Libya-flooding-of-2023", "num_entries": 17, "notes": "Fetched 2026-04-22; encyclopedic summary with detailed dated narrative. Used as secondary reference per Section 1.1 and cross-validated with Al Jazeera and CNN reporting."},
+    {"timeline_id": "c9_c_tl2", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2023/9/12/death-toll-in-libya-floods-reaches-3000-benghazi-administration", "num_entries": 16, "notes": "Anchor article plus Al Jazeera 'Mapping Libya's catastrophic flood damage' (2023/9/13), 'Bodies everywhere: Thousands feared dead' (2023/9/11), and Floods News tag liveblog series."}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "timelines": [
+    {"timeline_id": "c9_d_tl1", "outlet": "CNN", "url": "https://www.cnn.com/interactive/2023/08/hawaii-wildfires-timeline-maui-lahaina-dg/index.html", "num_entries": 18, "notes": "Fetched 2026-04-22. CNN interactive 'Hawaii wildfires timeline: The hours that brought Lahaina to ruins'. Native journalistic timeline with precise timestamps across Aug 8-10."},
+    {"timeline_id": "c9_d_tl2", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2023/8/12/maui-wildfires-what-we-know-so-far", "num_entries": 16, "notes": "Anchor 'What we know so far' plus Al Jazeera tag/maui-wildfires live updates. Cross-checked with Reuters, AP and Honolulu Civil Beat coverage for dates past Aug 14."}
+  ]
+}

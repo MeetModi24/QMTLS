@@ -1,0 +1,39 @@
+{
+  "notes": "Domains that aggregate/republish content without original reporting, SEO farms, or social reposts. Expand during collection.",
+  "blocked_domains": [
+    "topix.com",
+    "newser.com",
+    "investing.com",
+    "seekingalpha.com",
+    "yahoo.com",
+    "finance.yahoo.com",
+    "news.yahoo.com",
+    "msn.com",
+    "flipboard.com",
+    "reddit.com",
+    "quora.com",
+    "medium.com",
+    "substack.com",
+    "linkedin.com",
+    "facebook.com",
+    "x.com",
+    "twitter.com",
+    "youtube.com",
+    "tiktok.com",
+    "pinterest.com",
+    "instagram.com",
+    "zerohedge.com",
+    "beforeitsnews.com",
+    "rt.com",
+    "sputnikglobe.com",
+    "presstv.ir",
+    "thegatewaypundit.com",
+    "breitbart.com",
+    "infowars.com",
+    "dailymail.co.uk"
+  ],
+  "notes_on_exclusions": {
+    "rt.com_sputnikglobe.com_presstv.ir": "State-funded outlets with documented disinformation history; excluded to avoid contaminating reference articles. Still useful as framing reference in datasheets when discussing bias.",
+    "dailymail.co.uk": "Tabloid with frequent factual issues; excluded per WP:DAILYMAIL-style editorial consensus."
+  }
+}

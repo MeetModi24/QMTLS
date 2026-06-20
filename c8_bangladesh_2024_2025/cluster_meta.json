@@ -1,0 +1,10 @@
+{
+  "cluster_id": "c8",
+  "cluster_name": "Bangladesh Political Upheaval 2024-2025",
+  "time_range": {"start": "2024-01-01", "end": "2025-12-31"},
+  "subtopics": ["c8_a_quota_protests", "c8_b_hasina_fall", "c8_c_yunus_interim", "c8_d_minority_attacks"],
+  "collection_date": "2026-05-03",
+  "politically_sensitive": true,
+  "entanglement_rationale": "A direct causal chain: quota protests escalated into Hasina's ouster, leading to the Yunus-led interim government and subsequent communal violence that strained India-Bangladesh relations.",
+  "status": "in_progress"
+}

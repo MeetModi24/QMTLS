@@ -1,0 +1,338 @@
+{
+  "c1_a_us_iran": [
+    "Soleimani killed drone strike Baghdad",
+    "US Iran tensions 2020",
+    "IRGC Quds Force",
+    "Iran nuclear deal withdrawal",
+    "Iran missile strike Al Asad base"
+  ],
+  "c1_b_syria": [
+    "Syria civil war 2019",
+    "Idlib offensive",
+    "Assad regime Russia",
+    "Syria chemical attack",
+    "SDF Kurdish forces"
+  ],
+  "c1_c_yemen": [
+    "Yemen conflict Saudi coalition",
+    "Houthi missile Saudi",
+    "Yemen humanitarian crisis 2019 2020",
+    "Aden Hadi Saudi",
+    "Yemen ceasefire UN"
+  ],
+  "c1_d_israel_palestine": [
+    "Israel Palestine escalation 2019",
+    "Gaza rockets Hamas 2020",
+    "Jerusalem clashes Al-Aqsa",
+    "Abraham Accords UAE Bahrain",
+    "Netanyahu indictment 2019"
+  ],
+  "c2_a_operation_sindoor": [
+    "Operation Sindoor India Pakistan May 2025",
+    "Pahalgam attack April 2025",
+    "India strikes Pakistan 2025",
+    "Pakistan response India strikes",
+    "India Pakistan ceasefire May 2025"
+  ],
+  "c2_b_bangladesh_transition": [
+    "Bangladesh Sheikh Hasina resigns",
+    "Bangladesh interim government Yunus",
+    "Bangladesh 2024 political crisis",
+    "Bangladesh Awami League Jamaat",
+    "Bangladesh army chief Waker"
+  ],
+  "c2_c_afghanistan_taliban": [
+    "Afghanistan Taliban rule 2024",
+    "Afghan women rights ban",
+    "Taliban Pakistan border clash",
+    "Afghanistan earthquake 2025",
+    "Afghanistan UN aid suspension"
+  ],
+  "c2_d_kashmir": [
+    "Kashmir unrest 2024 2025",
+    "Pahalgam Kashmir attack",
+    "Line of Control cross border",
+    "Jammu Kashmir election 2024",
+    "Kashmir militant encounter 2025"
+  ],
+  "c3_a_ukraine_frontline": [
+    "Ukraine Russia war frontline",
+    "Bakhmut siege",
+    "Ukraine counteroffensive 2023",
+    "Avdiivka Russian advance",
+    "Kursk incursion Ukraine"
+  ],
+  "c3_b_sanctions": [
+    "Western sanctions Russia 2022",
+    "Russian oil price cap G7",
+    "Swift Russia ban",
+    "EU sanctions packages Russia",
+    "Russia frozen assets Ukraine"
+  ],
+  "c3_c_nato_expansion": [
+    "Finland NATO membership",
+    "Sweden NATO Turkey Hungary",
+    "NATO 2022 summit Madrid",
+    "NATO Vilnius summit",
+    "NATO Ukraine support"
+  ],
+  "c3_d_wagner_prigozhin": [
+    "Wagner Group Russia",
+    "Prigozhin mutiny June 2023",
+    "Prigozhin plane crash",
+    "Wagner Africa Mali",
+    "Wagner Bakhmut Ukraine"
+  ],
+  "c4_a_gaza_war": [
+    "Hamas October 7 attack",
+    "Israel Gaza war 2023 2024",
+    "Rafah offensive",
+    "Gaza ceasefire hostage deal",
+    "ICJ South Africa Israel genocide"
+  ],
+  "c4_b_hezbollah_israel": [
+    "Hezbollah Israel border fighting",
+    "Nasrallah killed Israel strike",
+    "Lebanon pager attack Hezbollah",
+    "Israel Lebanon ceasefire 2024",
+    "Beirut Israel airstrike"
+  ],
+  "c4_c_houthi_red_sea": [
+    "Houthi Red Sea shipping attacks",
+    "Operation Prosperity Guardian",
+    "Houthi missile US Navy",
+    "Red Sea Maersk shipping diverted",
+    "Houthi drone attack Eilat"
+  ],
+  "c4_d_iran_strikes": [
+    "Iran Israel direct strike April 2024",
+    "Iran missile drone Israel",
+    "Israel strike Isfahan Iran",
+    "Iran October 2024 missile barrage",
+    "Israel retaliation Iran October 2024"
+  ],
+  "c5_a_taiwan_strait": [
+    "Taiwan Strait tensions PLA",
+    "Pelosi Taiwan visit",
+    "Taiwan election 2024 Lai",
+    "China military exercise Taiwan",
+    "Taiwan US arms sale"
+  ],
+  "c5_b_chip_export_controls": [
+    "US chip export controls China",
+    "CHIPS Act semiconductor",
+    "Nvidia H100 China ban",
+    "ASML export restrictions China",
+    "Huawei chip sanctions"
+  ],
+  "c5_c_hong_kong": [
+    "Hong Kong national security law",
+    "Jimmy Lai trial",
+    "Hong Kong Article 23",
+    "Hong Kong 47 democrats",
+    "Hong Kong press freedom"
+  ],
+  "c5_d_south_china_sea": [
+    "South China Sea Philippines coast guard",
+    "Second Thomas Shoal",
+    "Scarborough Shoal China",
+    "Vietnam China South China Sea",
+    "ASEAN South China Sea summit"
+  ],
+  "c6_a_trump_campaign": [
+    "Trump criminal trial hush money",
+    "Trump classified documents Mar-a-Lago",
+    "Trump Georgia election case",
+    "Trump January 6 indictment",
+    "Trump campaign 2024"
+  ],
+  "c6_b_biden_harris": [
+    "Biden withdrawal 2024 race",
+    "Biden debate performance June 2024",
+    "Kamala Harris campaign 2024",
+    "Harris Walz running mate",
+    "Biden endorsement Harris"
+  ],
+  "c6_c_congressional_races": [
+    "House 2024 election results",
+    "Senate 2024 election control",
+    "Swing district House 2024",
+    "Senate Ohio Montana 2024",
+    "Congressional GOP majority 2024"
+  ],
+  "c6_d_assassination_attempts": [
+    "Trump Butler Pennsylvania shooting",
+    "Trump assassination attempt July 2024",
+    "Crooks Trump shooter",
+    "Secret Service Trump rally",
+    "Trump second assassination attempt September 2024"
+  ],
+  "c7_a_uk_election": [
+    "UK general election July 2024 Labour",
+    "Keir Starmer prime minister",
+    "Sunak Conservative defeat",
+    "Reform UK Farage seats",
+    "Labour manifesto 2024"
+  ],
+  "c7_b_france_snap": [
+    "France snap election Macron",
+    "Rassemblement National France election",
+    "Nouveau Front Populaire France",
+    "Macron dissolves parliament",
+    "France hung parliament 2024"
+  ],
+  "c7_c_germany_coalition": [
+    "Germany traffic light coalition collapse",
+    "Scholz Lindner fired",
+    "Germany snap election 2025",
+    "Friedrich Merz CDU",
+    "AfD Germany state elections"
+  ],
+  "c7_d_eu_parliament": [
+    "EU Parliament election June 2024",
+    "European elections far right surge",
+    "Von der Leyen second term",
+    "Meloni EU election",
+    "Le Pen EU election"
+  ],
+  "c8_a_quota_protests": [
+    "Bangladesh quota reform protests 2024",
+    "Dhaka University protests July 2024",
+    "Bangladesh Rajakar comment Hasina",
+    "Bangladesh internet shutdown protests",
+    "Abu Sayed Bangladesh student killed"
+  ],
+  "c8_b_hasina_fall": [
+    "Sheikh Hasina flees August 5",
+    "Bangladesh prime minister resigns 2024",
+    "Ganabhaban stormed Dhaka",
+    "Bangladesh army chief statement Hasina",
+    "Hasina India asylum"
+  ],
+  "c8_c_yunus_interim": [
+    "Muhammad Yunus interim adviser Bangladesh",
+    "Yunus sworn in Dhaka",
+    "Bangladesh interim cabinet",
+    "Yunus reform commission Bangladesh",
+    "Yunus UN General Assembly"
+  ],
+  "c8_d_minority_attacks": [
+    "Bangladesh Hindu attacks August 2024",
+    "Bangladesh minority violence Hasina fall",
+    "India response Bangladesh minority",
+    "Chinmoy Das arrest Bangladesh",
+    "Bangladesh temple attacks 2024"
+  ],
+  "c9_a_turkey_syria_eq": [
+    "Turkey Syria earthquake February 6 2023",
+    "Kahramanmaras earthquake",
+    "Turkey earthquake death toll",
+    "Syria earthquake rebel held",
+    "Turkey earthquake aid response"
+  ],
+  "c9_b_morocco_eq": [
+    "Morocco earthquake September 2023",
+    "Marrakech earthquake Atlas",
+    "Al Haouz earthquake Morocco",
+    "Morocco earthquake aid rejected",
+    "Morocco earthquake rebuild"
+  ],
+  "c9_c_libya_floods": [
+    "Libya Derna floods September 2023",
+    "Storm Daniel Libya",
+    "Derna dam collapse",
+    "Libya flood death toll",
+    "Libya floods international aid"
+  ],
+  "c9_d_maui_fires": [
+    "Maui wildfires Lahaina August 2023",
+    "Hawaii fires Lahaina destroyed",
+    "Maui wildfire death toll",
+    "Lahaina fire cause power lines",
+    "Biden Maui visit fires"
+  ],
+  "c10_a_covid_pandemic": [
+    "COVID pandemic March 2020 WHO",
+    "COVID lockdown Wuhan",
+    "Delta variant COVID",
+    "Omicron variant COVID",
+    "COVID death toll 2020 2021"
+  ],
+  "c10_b_vaccine_rollout": [
+    "Pfizer COVID vaccine approval",
+    "Moderna vaccine rollout",
+    "AstraZeneca vaccine Europe",
+    "COVAX vaccine distribution",
+    "COVID booster authorization"
+  ],
+  "c10_c_blm_protests": [
+    "George Floyd death Minneapolis May 2020",
+    "BLM protests summer 2020",
+    "Derek Chauvin trial conviction",
+    "Breonna Taylor Louisville",
+    "Portland federal protests 2020"
+  ],
+  "c10_d_capitol_jan6": [
+    "US Capitol January 6 2021 riot",
+    "Trump speech Ellipse January 6",
+    "Capitol police officer death Sicknick",
+    "January 6 committee hearings",
+    "Capitol rioters arrests sentencing"
+  ],
+  "c11_a_chatgpt_openai": [
+    "ChatGPT launch November 2022",
+    "GPT-4 release OpenAI",
+    "OpenAI DevDay",
+    "ChatGPT plugins API",
+    "OpenAI Sora video model"
+  ],
+  "c11_b_altman_ouster": [
+    "Sam Altman fired OpenAI November 2023",
+    "OpenAI board Altman",
+    "Microsoft OpenAI Altman hire",
+    "OpenAI staff resign threat",
+    "Altman returns CEO OpenAI"
+  ],
+  "c11_c_eu_ai_act": [
+    "EU AI Act negotiation",
+    "EU AI Act passage March 2024",
+    "EU AI Act foundation models",
+    "EU AI Act risk tiers",
+    "EU AI Act compliance timeline"
+  ],
+  "c11_d_big_tech_ai": [
+    "Google Gemini launch",
+    "Google Bard rebrand",
+    "Meta Llama open source",
+    "Anthropic Claude launch",
+    "Microsoft Copilot AI"
+  ],
+  "c12_a_ftx_sbf": [
+    "FTX collapse November 2022",
+    "Sam Bankman-Fried arrest Bahamas",
+    "FTX bankruptcy filing",
+    "SBF trial fraud conviction",
+    "FTX customer funds Alameda"
+  ],
+  "c12_b_terra_luna": [
+    "Terra Luna collapse May 2022",
+    "UST stablecoin depeg",
+    "Do Kwon Terra arrest",
+    "Anchor Protocol Terra",
+    "Terra LUNA price crash"
+  ],
+  "c12_c_binance_cz": [
+    "Binance CZ settlement DOJ",
+    "Changpeng Zhao guilty plea",
+    "Binance money laundering charges",
+    "Binance US CFTC suit",
+    "CZ sentencing Binance"
+  ],
+  "c12_d_bitcoin_etf": [
+    "Bitcoin spot ETF SEC approval January 2024",
+    "BlackRock IBIT Bitcoin ETF",
+    "Grayscale GBTC conversion",
+    "Gensler Bitcoin ETF statement",
+    "Bitcoin price ETF launch"
+  ]
+}

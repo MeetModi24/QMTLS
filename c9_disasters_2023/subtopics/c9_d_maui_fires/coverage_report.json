@@ -1,0 +1,26 @@
+{
+  "subtopic": "c9_d_maui_fires",
+  "timeline_dates": [
+    "2023-08-07",
+    "2023-08-08",
+    "2023-08-09",
+    "2023-08-10",
+    "2023-08-11",
+    "2023-08-12",
+    "2023-08-14",
+    "2023-08-16",
+    "2023-08-17",
+    "2023-08-21",
+    "2023-08-27",
+    "2023-09-08",
+    "2023-09-15",
+    "2023-10-04"
+  ],
+  "n_timeline_dates": 14,
+  "n_article_dates_with_pub_date": 6,
+  "n_articles_total": 27,
+  "tol_days": 3,
+  "covered_timeline_dates": 8,
+  "coverage_ratio": 0.571,
+  "notes": "coverage_ratio = fraction of distinct timeline dates that have ≥1 article with pub_date within ±3 days. Many article URLs could not be assigned a pub_date from URL alone, so this is a lower bound."
+}

@@ -1,0 +1,6 @@
+{
+  "timelines": [
+    {"timeline_id": "c9_b_tl1", "outlet": "Encyclopaedia Britannica", "url": "https://www.britannica.com/event/Morocco-earthquake-of-2023", "num_entries": 16, "notes": "Fetched 2026-04-22. Encyclopaedic summary; used as secondary reference per Section 1.1 and cross-validated against Al Jazeera and CNN coverage."},
+    {"timeline_id": "c9_b_tl2", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2023/9/11/what-we-know-three-days-after-moroccos-devastating-earthquake", "num_entries": 16, "notes": "Anchor article supplemented by Al Jazeera liveblog series at aljazeera.com/news/liveblog/2023/9/..., which ran daily dated updates."}
+  ]
+}

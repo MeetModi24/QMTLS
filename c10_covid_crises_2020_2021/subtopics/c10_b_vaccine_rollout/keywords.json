@@ -1,0 +1,36 @@
+{
+  "subtopic_id": "c10_b_vaccine_rollout",
+  "canonical_keywords": [
+    "COVID-19 vaccine development",
+    "COVID-19 vaccine rollout"
+  ],
+  "entity_keywords": [
+    "Pfizer-BioNTech",
+    "Moderna",
+    "AstraZeneca",
+    "Johnson & Johnson",
+    "Sinovac",
+    "Sinopharm",
+    "Covaxin",
+    "Sputnik V",
+    "Operation Warp Speed",
+    "COVAX",
+    "Albert Bourla",
+    "Stéphane Bancel",
+    "Uğur Şahin"
+  ],
+  "event_keywords": [
+    "Pfizer emergency use authorization December 2020",
+    "Moderna emergency use authorization December 2020",
+    "first vaccinations United Kingdom December 8 2020",
+    "AstraZeneca blood clot concerns",
+    "booster shot rollout 2021",
+    "vaccine mandate protests"
+  ],
+  "broader_context": [
+    "messenger RNA vaccine technology",
+    "vaccine inequity in the Global South",
+    "TRIPS waiver debate",
+    "anti-vaccine misinformation"
+  ]
+}

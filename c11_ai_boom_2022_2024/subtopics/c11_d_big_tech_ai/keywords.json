@@ -1,0 +1,38 @@
+{
+  "subtopic_id": "c11_d_big_tech_ai",
+  "canonical_keywords": [
+    "Big Tech AI product launches",
+    "AI race 2023-2024"
+  ],
+  "entity_keywords": [
+    "Google",
+    "Sundar Pichai",
+    "Demis Hassabis",
+    "Google DeepMind",
+    "Gemini",
+    "Bard",
+    "Meta Platforms",
+    "Mark Zuckerberg",
+    "Llama",
+    "Anthropic",
+    "Dario Amodei",
+    "Claude",
+    "Microsoft Copilot",
+    "Amazon Bedrock"
+  ],
+  "event_keywords": [
+    "Google Bard launch March 2023",
+    "Gemini launch December 2023",
+    "Llama 2 release July 2023",
+    "Llama 3 release April 2024",
+    "Claude 3 family launch March 2024",
+    "Microsoft Copilot launch",
+    "Apple Intelligence WWDC June 2024"
+  ],
+  "broader_context": [
+    "foundation model competition",
+    "open-weight versus closed model debate",
+    "Nvidia GPU supply constraints",
+    "AI compute scaling"
+  ]
+}
