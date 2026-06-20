@@ -1,0 +1,30 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c5_b_t1",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/business/tech/chips",
+      "num_entries": 17,
+      "notes": "Fetched 2026-06-20. Aggregated across CNN's chip-export-controls coverage (no single CNN article carries 15+ dated entries). Contributing articles: https://www.cnn.com/2022/08/09/tech/biden-chips-and-science-act ; https://www.cnn.com/2022/09/01/tech/nvidia-china-ai-chip-restrictions ; https://www.cnn.com/2022/10/07/tech/us-china-chip-export-controls ; https://www.cnn.com/2022/10/12/tech/sk-hynix-samsung-chip-waivers ; https://www.cnn.com/2022/12/15/tech/yangtze-memory-entity-list-china ; https://www.cnn.com/2023/01/27/tech/japan-netherlands-us-chip-china ; https://www.cnn.com/2023/03/30/tech/netherlands-chip-equipment-export-restrictions ; https://www.cnn.com/2023/05/21/tech/china-bans-micron-chips ; https://www.cnn.com/2023/08/29/tech/huawei-mate-60-pro-raimondo-visit ; https://www.cnn.com/2023/10/17/tech/us-tightens-china-chip-export-controls ; https://www.cnn.com/2024/01/01/tech/asml-china-export-restrictions-effect ; https://www.cnn.com/2024/03/29/tech/us-tightens-china-chip-export-rules ; https://www.cnn.com/2024/04/19/tech/intel-gaudi-3-china-export-rules ; https://www.cnn.com/2024/05/07/tech/huawei-intel-qualcomm-licenses-revoked ; https://www.cnn.com/2024/09/05/tech/quantum-chip-equipment-export-controls ; https://www.cnn.com/2024/12/02/tech/us-china-chip-entity-list-140-firms ; https://www.cnn.com/2024/12/23/tech/biden-china-legacy-chip-301-probe . Date approximations per rule 4: ASML Jan 1 2024 entry pegged to the date the new Dutch advanced-DUV restrictions took effect (announced earlier in 2023). Some restrictions phased in across days; entries pegged to formal-announcement or effective-date as cited by CNN. Source disagreements: Huawei Mate 60 Pro launch (Aug 29 2023) — both outlets dated the launch the same day during Commerce Secretary Raimondo's Beijing visit, but interpretation differed. CNN emphasized the political signaling of timing the launch during Raimondo's trip; AJ described it more neutrally as a release. Public figures named: Joe Biden, Gina Raimondo, Jensen Huang implicit — all public officials/corporate officers, permitted under rule 6."
+    },
+    {
+      "timeline_id": "c5_b_t2",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/technology",
+      "num_entries": 16,
+      "notes": "Fetched 2026-06-20. Aggregated across Al Jazeera's economy/technology section (no single AJ article carries 15+ dated entries). Contributing articles: https://www.aljazeera.com/economy/2022/8/9/biden-signs-chips-act-into-law ; https://www.aljazeera.com/economy/2022/9/1/nvidia-says-us-blocked-sales-of-ai-chips-to-china ; https://www.aljazeera.com/economy/2022/10/7/us-unveils-sweeping-chip-export-controls-on-china ; https://www.aljazeera.com/economy/2022/12/15/us-blacklists-chinese-chipmaker-ymtc-and-dozens-of-others ; https://www.aljazeera.com/economy/2023/1/27/japan-netherlands-agree-to-join-us-china-chip-curbs ; https://www.aljazeera.com/economy/2023/3/31/netherlands-restricts-exports-of-chip-making-machines ; https://www.aljazeera.com/economy/2023/5/21/china-bars-key-operators-from-buying-from-us-chipmaker-micron ; https://www.aljazeera.com/economy/2023/7/3/china-imposes-export-controls-on-gallium-and-germanium ; https://www.aljazeera.com/economy/2023/8/29/huawei-launches-5g-phone-with-advanced-chinese-chip ; https://www.aljazeera.com/economy/2023/10/17/us-updates-rules-to-close-china-chip-export-loopholes ; https://www.aljazeera.com/economy/2024/3/29/us-tightens-chip-export-rules-on-china ; https://www.aljazeera.com/economy/2024/5/7/us-revokes-intel-qualcomm-licences-to-supply-huawei ; https://www.aljazeera.com/economy/2024/9/5/us-proposes-export-controls-on-quantum-and-chip-tools ; https://www.aljazeera.com/economy/2024/12/2/us-adds-140-chinese-chip-firms-to-restricted-entity-list ; https://www.aljazeera.com/economy/2024/12/3/china-bans-exports-of-gallium-germanium-and-antimony-to-us ; https://www.aljazeera.com/economy/2024/12/23/biden-launches-trade-probe-into-china-legacy-chip-industry . Date approximations per rule 4: Netherlands restrictions dated Mar 31 (AJ) vs Mar 30 (CNN) — both refer to the same announcement on Mar 8 of the policy framework with implementing details published Mar 30/31; outlets anchored on different briefing days. Source disagreements: AJ included explicit China-retaliation entries (Jul 3 2023 gallium/germanium; Dec 3 2024 expanded ban) that CNN folded into broader narrative entries. AJ did not separately cover the Oct 12 2022 Korean waivers or the Apr 19 2024 Intel-Gaudi-3 carve-out — coverage gap noted. Public figures: same as t1, all permitted."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Date of Netherlands chip-equipment export restrictions",
+      "sources": ["CNN (c5_b_t1)", "Al Jazeera (c5_b_t2)"],
+      "note": "CNN dates the restrictions to Mar 30 2023; AJ dates them to Mar 31 2023. The Dutch government's framework was outlined on Mar 8, with implementing detail published over Mar 30-31; outlets anchored on different briefing days."
+    },
+    {
+      "topic": "Huawei Mate 60 Pro launch framing",
+      "sources": ["CNN (c5_b_t1)", "Al Jazeera (c5_b_t2)"],
+      "note": "Both timelines record the Aug 29 2023 launch. CNN emphasised the political signalling of timing the release during Commerce Secretary Raimondo's Beijing visit; AJ described it more neutrally as a release of a 5G-capable phone using a domestically produced chip."
+    }
+  ]
+}

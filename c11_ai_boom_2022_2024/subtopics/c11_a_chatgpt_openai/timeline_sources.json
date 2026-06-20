@@ -1,0 +1,30 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c11_a_t1",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/business/tech/chatgpt",
+      "num_entries": 18,
+      "notes": "Fetched 2026-06-20. Aggregated across CNN's ChatGPT and OpenAI coverage (no single CNN article carries 15+ dated entries on this subtopic). Contributing articles: https://www.cnn.com/2022/12/05/tech/chatgpt-trnd ; https://www.cnn.com/2023/01/23/tech/microsoft-invests-chatgpt-openai ; https://www.cnn.com/2023/02/01/tech/chatgpt-plus-paid-subscription ; https://www.cnn.com/2023/02/02/tech/chatgpt-100-million-users ; https://www.cnn.com/2023/02/07/tech/microsoft-chatgpt-bing-search ; https://www.cnn.com/2023/03/14/tech/gpt-4-openai ; https://www.cnn.com/2023/03/23/tech/chatgpt-plugins-openai ; https://www.cnn.com/2023/05/18/tech/chatgpt-iphone-app ; https://www.cnn.com/2023/07/06/tech/chatgpt-code-interpreter ; https://www.cnn.com/2023/09/25/tech/openai-chatgpt-voice-images ; https://www.cnn.com/2023/11/06/tech/openai-devday-gpt-4-turbo ; https://www.cnn.com/2024/01/10/tech/openai-gpt-store-launch ; https://www.cnn.com/2024/02/15/tech/openai-sora-text-video-ai ; https://www.cnn.com/2024/05/13/tech/openai-gpt-4o-launch ; https://www.cnn.com/2024/09/12/tech/openai-o1-strawberry-reasoning ; https://www.cnn.com/2024/12/05/tech/openai-chatgpt-pro-200-dollars ; https://www.cnn.com/2024/12/20/tech/openai-o3-reasoning-model . Date approximations per rule 4: ChatGPT-Plus launch (Feb 1 2023), Code Interpreter rollout (Jul 6 2023), and GPT Store opening (Jan 10 2024) pegged to OpenAI's announcement-day reporting in CNN. The 100-million-users milestone (Feb 2 2023) pegged to publication date of CNN's analyst-citation piece (the milestone itself was reported retrospectively for January). All other dates correspond to discrete OpenAI product announcements. No politically sensitive figures are named (cluster spec: politically_sensitive: false). Public figures named: Sam Altman, Satya Nadella — both public corporate officers, permitted under rule 6."
+    },
+    {
+      "timeline_id": "c11_a_t2",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/topics/artificial-intelligence",
+      "num_entries": 17,
+      "notes": "Fetched 2026-06-20. Aggregated across Al Jazeera's AI topic page (no single AJ article carries 15+ dated entries on ChatGPT/OpenAI). Contributing articles: https://www.aljazeera.com/economy/2022/12/2/chatgpt-the-ai-chatbot-that-took-the-internet-by-storm ; https://www.aljazeera.com/economy/2023/1/23/microsoft-makes-multi-billion-dollar-investment-in-openai ; https://www.aljazeera.com/economy/2023/2/1/chatgpt-creator-launches-paid-version-of-ai-chatbot ; https://www.aljazeera.com/economy/2023/2/7/microsoft-unveils-ai-powered-bing-search-engine ; https://www.aljazeera.com/economy/2023/3/14/openai-launches-gpt-4-the-next-generation-of-its-ai ; https://www.aljazeera.com/economy/2023/3/29/tech-leaders-call-for-pause-on-training-of-powerful-ai-systems ; https://www.aljazeera.com/economy/2023/5/16/openai-ceo-sam-altman-asks-us-congress-to-regulate-ai ; https://www.aljazeera.com/economy/2023/9/25/chatgpt-can-now-see-hear-and-speak-says-openai ; https://www.aljazeera.com/economy/2023/11/6/openai-unveils-cheaper-ai-models-launches-custom-gpt-store ; https://www.aljazeera.com/economy/2024/1/10/openai-launches-store-for-custom-versions-of-chatgpt ; https://www.aljazeera.com/economy/2024/2/15/openai-launches-sora-an-ai-model-that-creates-realistic-videos ; https://www.aljazeera.com/economy/2024/5/13/openai-unveils-gpt-4o-a-faster-version-with-voice-and-vision ; https://www.aljazeera.com/economy/2024/7/25/openai-takes-on-google-with-prototype-of-ai-search-engine ; https://www.aljazeera.com/economy/2024/9/12/openai-launches-o1-an-ai-model-that-can-reason ; https://www.aljazeera.com/economy/2024/10/31/openai-launches-chatgpt-search-challenging-google ; https://www.aljazeera.com/economy/2024/12/5/openai-launches-200-monthly-chatgpt-pro-subscription . Date approximations per rule 4: Open-letter pause call (Mar 29 2023) pegged to publication date of AJ's coverage and the letter's released-on date; Code Interpreter not separately listed by AJ — coverage gap noted. Source disagreements: ChatGPT user-growth numbers vary by source — AJ avoided the precise 100M-users January claim that CNN cited; both timelines treat the milestone differently per outlet framing. Microsoft investment size: AJ wrote 'reportedly $10bn'; CNN said 'multibillion-dollar' — both phrasings reflect that OpenAI/Microsoft never confirmed the figure publicly. Public figures named: Sam Altman — public corporate officer, permitted under rule 6."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Size of Microsoft's January 2023 investment in OpenAI",
+      "sources": ["CNN (c11_a_t1)", "Al Jazeera (c11_a_t2)"],
+      "note": "AJ cites the widely reported $10bn figure, while CNN avoids a specific number, calling it 'multibillion-dollar'. Microsoft and OpenAI announced the deal as a multi-year, multibillion-dollar partnership without disclosing the exact figure."
+    },
+    {
+      "topic": "ChatGPT 100-million-users milestone",
+      "sources": ["CNN (c11_a_t1)", "Al Jazeera (c11_a_t2)"],
+      "note": "CNN's timeline includes the Feb 2 2023 analyst (UBS / Similarweb) estimate that ChatGPT had reached 100M monthly users in January, making it the fastest-growing consumer app at the time. AJ's coverage referenced the rapid growth qualitatively without anchoring to the specific milestone date."
+    }
+  ]
+}

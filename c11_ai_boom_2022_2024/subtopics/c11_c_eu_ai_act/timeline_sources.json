@@ -1,0 +1,30 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c11_c_t1",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2024/3/13/eu-parliament-passes-landmark-artificial-intelligence-act",
+      "num_entries": 17,
+      "notes": "Fetched 2026-06-20. Primary anchor article is AJ's coverage of the European Parliament's Mar 13 2024 adoption vote. Supplemented with additional AJ reporting to extend the timeline before and after the anchor: https://www.aljazeera.com/economy/2022/12/6/eu-states-agree-on-ai-rules-amid-chatgpt-frenzy ; https://www.aljazeera.com/economy/2023/6/14/european-parliament-approves-draft-eu-rules-on-artificial-intelligence ; https://www.aljazeera.com/economy/2023/12/8/eu-reaches-deal-on-landmark-ai-act-officials-say ; https://www.aljazeera.com/economy/2024/2/2/eu-states-give-final-approval-to-bloc-wide-ai-rules ; https://www.aljazeera.com/economy/2024/3/13/eu-parliament-passes-landmark-artificial-intelligence-act ; https://www.aljazeera.com/economy/2024/5/21/eu-council-gives-final-approval-to-ai-act ; https://www.aljazeera.com/economy/2024/8/1/eu-ai-act-the-worlds-first-major-law-on-ai-takes-effect . Date approximations per rule 4: AI Office establishment (Apr 29 2024) pegged to Commission decision date (also reported the same week); 'tightening' committee votes (May 11 2023) pegged to the IMCO/LIBE joint committee vote date. Source disagreements: Whether the law was 'first ever' (AJ) vs 'first comprehensive' (CNN) — both phrasings are widely used; AJ's coverage favored the 'first major' framing while CNN emphasized comprehensiveness. The Dec 8 2023 deal was characterized by AJ as a 'deal'; some commentators called it a political agreement requiring further technical work. Public figures: this entry concerns institutional actions; named individuals (Thierry Breton, Brando Benifei) are public officials, permitted under rule 6, though kept implicit in entries to maintain neutrality."
+    },
+    {
+      "timeline_id": "c11_c_t2",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/business/tech/eu-ai-act",
+      "num_entries": 17,
+      "notes": "Fetched 2026-06-20. Aggregated across CNN's EU AI Act coverage (no single CNN article carries 15+ dated entries). Contributing articles: https://www.cnn.com/2022/12/06/tech/eu-ai-rules-council ; https://www.cnn.com/2023/06/14/tech/european-parliament-ai-act-vote ; https://www.cnn.com/2023/11/21/tech/france-germany-italy-foundation-models ; https://www.cnn.com/2023/12/08/tech/eu-ai-act-deal ; https://www.cnn.com/2024/01/22/tech/eu-ai-act-france-germany-italy-objections-lifted ; https://www.cnn.com/2024/02/02/tech/eu-states-back-final-ai-act ; https://www.cnn.com/2024/02/13/tech/eu-parliament-committees-ai-act ; https://www.cnn.com/2024/03/13/tech/european-parliament-passes-ai-act ; https://www.cnn.com/2024/05/21/tech/eu-council-approves-ai-act ; https://www.cnn.com/2024/06/13/tech/eu-ai-act-signed ; https://www.cnn.com/2024/07/12/tech/eu-ai-act-official-journal ; https://www.cnn.com/2024/08/01/tech/eu-ai-act-takes-effect ; https://www.cnn.com/2024/09/25/tech/us-tech-companies-eu-ai-act-lobbying ; https://www.cnn.com/2024/11/14/tech/eu-ai-office-code-practice-draft . Date approximations per rule 4: Nov 21 2023 'France, Germany, Italy resisting' entry pegged to publication date of CNN's reporting (the resistance was a continuing position over weeks; this date marks when the issue became prominent in coverage). May 11 2023 entry pegged to the joint IMCO/LIBE committee vote date. Source disagreements: Foundation-model rules characterization — AJ called them 'general-purpose AI rules' (per the law's own GPAI terminology); CNN's earlier reporting referred to 'foundation model' rules per the Parliament's working drafts. Both terms are technically accurate; entries reflect each outlet's framing. US-tech-lobbying entry (Sep 25 2024) is reporting-anchored (per CNN piece publication) rather than tied to a single corporate filing. Public figures: institutional in nature; named officials kept implicit per neutrality."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Characterization of December 8 2023 deal",
+      "sources": ["Al Jazeera (c11_c_t1)", "CNN (c11_c_t2)"],
+      "note": "AJ called it a deal; CNN called it a provisional deal. The agreement was a political deal among the Parliament, Council and Commission negotiators that required further technical drafting through January 2024."
+    },
+    {
+      "topic": "Foundation models vs general-purpose AI terminology",
+      "sources": ["Al Jazeera (c11_c_t1)", "CNN (c11_c_t2)"],
+      "note": "The law settled on the 'general-purpose AI' (GPAI) term; earlier negotiating positions used 'foundation models'. AJ tracked the GPAI label; CNN's earlier reporting used 'foundation models'. Both terms appear in the legislative record."
+    }
+  ]
+}

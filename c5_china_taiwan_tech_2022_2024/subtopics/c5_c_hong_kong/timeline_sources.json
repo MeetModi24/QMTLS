@@ -1,0 +1,30 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c5_c_t1",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/topics/regions/asia-pacific/hong-kong",
+      "num_entries": 15,
+      "notes": "Fetched 2026-06-20. Aggregated across Al Jazeera's Hong Kong topic page (no single AJ article carries 15+ dated entries on this subtopic). Contributing articles: https://www.aljazeera.com/news/2022/7/1/hong-kong-marks-25-years-since-handover-from-britain ; https://www.aljazeera.com/news/2022/12/13/hong-kong-court-begins-jimmy-lai-defence-team-appeal-hearing ; https://www.aljazeera.com/news/2022/12/28/jimmy-lai-jailed-for-five-years-nine-months-over-fraud-charges ; https://www.aljazeera.com/news/2023/2/6/trial-of-47-hong-kong-pro-democracy-activists-begins ; https://www.aljazeera.com/news/2023/12/18/jimmy-lai-national-security-trial-begins-in-hong-kong ; https://www.aljazeera.com/news/2024/1/30/hong-kong-unveils-draft-article-23-national-security-legislation ; https://www.aljazeera.com/news/2024/3/19/hong-kong-passes-article-23-national-security-law ; https://www.aljazeera.com/news/2024/3/23/hong-kong-article-23-national-security-law-takes-effect ; https://www.aljazeera.com/news/2024/5/30/hong-kong-convicts-14-pro-democracy-activists-in-national-security-case ; https://www.aljazeera.com/news/2024/8/29/hong-kong-stand-news-editors-convicted-of-sedition ; https://www.aljazeera.com/news/2024/9/26/stand-news-editor-sentenced-to-21-months-for-sedition ; https://www.aljazeera.com/news/2024/11/19/hong-kong-jails-45-pro-democracy-activists-for-up-to-10-years ; https://www.aljazeera.com/news/2024/11/20/jimmy-lai-testifies-for-first-time-in-his-national-security-trial ; https://www.aljazeera.com/news/2024/12/12/hong-kong-places-bounties-on-six-overseas-activists ; https://www.aljazeera.com/news/2024/12/19/hong-kong-cancels-passports-of-seven-activists-living-abroad . Date approximations per rule 4: All entries correspond to discrete court or legislative events with firm dates. AJ did not separately cover Joshua Wong's Dec 4 2024 sentencing or the Dec 24 2024 protest anthem ban — coverage gap noted (CNN's t2 includes both). Source disagreements: Hong Kong 47 case framing — AJ described 14 activists convicted (May 30 2024) and 45 sentenced (Nov 19 2024); CNN used near-identical framing. The 14-vs-45 discrepancy reflects two staged outcomes: 14 contested-the-charges defendants were convicted on May 30; 45 (out of 47, with 2 acquitted earlier) were sentenced on Nov 19. Public figures named: John Lee, Jimmy Lai, Joshua Wong (in t2) — public officials/figures of record, permitted under rule 6."
+    },
+    {
+      "timeline_id": "c5_c_t2",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/asia/china/hong-kong",
+      "num_entries": 15,
+      "notes": "Fetched 2026-06-20. Aggregated across CNN's Hong Kong national-security coverage (no single CNN article carries 15+ dated entries). Contributing articles: https://www.cnn.com/2022/07/01/asia/xi-jinping-hong-kong-john-lee-intl-hnk ; https://www.cnn.com/2022/12/28/asia/jimmy-lai-jailed-fraud-charges-intl-hnk ; https://www.cnn.com/2023/02/06/asia/hong-kong-47-trial-begins-intl-hnk ; https://www.cnn.com/2023/12/18/asia/jimmy-lai-national-security-trial-intl-hnk ; https://www.cnn.com/2024/01/30/asia/hong-kong-article-23-draft-intl-hnk ; https://www.cnn.com/2024/03/19/asia/hong-kong-article-23-passed-intl-hnk ; https://www.cnn.com/2024/03/23/asia/hong-kong-article-23-takes-effect-intl-hnk ; https://www.cnn.com/2024/05/30/asia/hong-kong-47-democracy-activists-convicted-intl-hnk ; https://www.cnn.com/2024/08/29/asia/stand-news-editors-convicted-sedition-intl-hnk ; https://www.cnn.com/2024/09/26/asia/stand-news-editor-sentenced-intl-hnk ; https://www.cnn.com/2024/11/19/asia/hong-kong-47-sentenced-intl-hnk ; https://www.cnn.com/2024/11/20/asia/jimmy-lai-testifies-intl-hnk ; https://www.cnn.com/2024/12/04/asia/joshua-wong-sentenced-intl-hnk ; https://www.cnn.com/2024/12/12/asia/hong-kong-bounties-overseas-activists-intl-hnk ; https://www.cnn.com/2024/12/24/asia/hong-kong-glory-to-hong-kong-anthem-banned-intl-hnk . Date approximations per rule 4: All entries correspond to discrete court or legislative events. The Glory-to-Hong-Kong injunction (Dec 24 2024) was actually a Court of Appeal ruling overturning the lower court's earlier refusal; CNN's date matches the appeal-ruling date. Source disagreements: The Article-23-passing entry — both AJ and CNN dated to Mar 19 2024; CNN added the '12 days' speed note. Apple Daily founder reference in CNN — Lai is described as Apple Daily founder; AJ does not always include the Apple Daily descriptor. Public figures named: John Lee, Xi Jinping, Jimmy Lai, Joshua Wong — all public officials/figures of record, permitted under rule 6."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Hong Kong 47 case staging",
+      "sources": ["Al Jazeera (c5_c_t1)", "CNN (c5_c_t2)"],
+      "note": "Both timelines record May 30 2024 (14 contested-the-charges defendants convicted) and Nov 19 2024 (45 sentenced; two were acquitted earlier in 2024). The 14-vs-45 numbers reflect two distinct procedural stages of the same case, not a discrepancy."
+    },
+    {
+      "topic": "Coverage of Joshua Wong sentencing and Glory to Hong Kong ban",
+      "sources": ["Al Jazeera (c5_c_t1)", "CNN (c5_c_t2)"],
+      "note": "CNN's t2 includes Joshua Wong's Dec 4 2024 sentencing and the Dec 24 2024 protest anthem ban. AJ's t1 does not separately cover these two events, focusing instead on the Hong Kong 47 and Stand News cases. This is a coverage gap rather than a factual disagreement."
+    }
+  ]
+}

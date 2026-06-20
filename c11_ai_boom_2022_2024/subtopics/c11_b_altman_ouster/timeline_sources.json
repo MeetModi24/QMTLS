@@ -1,0 +1,30 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c11_b_t1",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/business/tech/openai",
+      "num_entries": 18,
+      "notes": "Fetched 2026-06-20. Aggregated across CNN's OpenAI-board-crisis coverage (no single CNN article carries 15+ dated entries). Contributing articles: https://www.cnn.com/2023/11/17/tech/openai-ceo-sam-altman-fired ; https://www.cnn.com/2023/11/17/tech/openai-greg-brockman-resigns ; https://www.cnn.com/2023/11/18/tech/openai-altman-investors-board ; https://www.cnn.com/2023/11/19/tech/openai-altman-talks-stall ; https://www.cnn.com/2023/11/20/tech/microsoft-altman-brockman-ai ; https://www.cnn.com/2023/11/20/tech/openai-emmett-shear-interim-ceo ; https://www.cnn.com/2023/11/20/tech/openai-employee-letter-resignation-threat ; https://www.cnn.com/2023/11/21/tech/openai-sam-altman-returns ; https://www.cnn.com/2023/11/22/tech/openai-q-star-letter-board ; https://www.cnn.com/2023/11/29/tech/openai-altman-formally-returns ; https://www.cnn.com/2023/12/08/tech/microsoft-openai-board-observer ; https://www.cnn.com/2024/03/08/tech/openai-board-altman-investigation ; https://www.cnn.com/2024/05/14/tech/ilya-sutskever-leaves-openai ; https://www.cnn.com/2024/05/17/tech/openai-jan-leike-superalignment ; https://www.cnn.com/2024/09/25/tech/openai-mira-murati-departure ; https://www.cnn.com/2024/10/02/tech/openai-funding-round-157-billion . Date approximations per rule 4: Several entries (Nov 17 Brockman resignation, Nov 17 Murati interim appointment) share a single calendar date because the announcements were sequential within hours; ordering preserved as reported. Nov 20 entries (Microsoft offer, Shear interim, employee letter) similarly all happened on the same fast-moving day. Source disagreements: Reuters' Nov 22 Q* reporting was framed by CNN as 'staff researchers warned the board' — OpenAI never formally confirmed the Q* details; entry written cautiously to attribute to reporting rather than confirmed fact. Public figures named: Sam Altman, Greg Brockman, Mira Murati, Ilya Sutskever, Jan Leike, Emmett Shear, Nicole Seligman, Satya Nadella — all public corporate officers, permitted under rule 6."
+    },
+    {
+      "timeline_id": "c11_b_t2",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2023/11/22/openais-board-coup-a-timeline-of-the-altman-saga",
+      "num_entries": 16,
+      "notes": "Fetched 2026-06-20. Primary anchor source is AJ's 'OpenAI's board coup: A timeline of the Altman saga' (Nov 22 2023). Supplemented with later AJ reporting to extend the timeline beyond the Nov 22 anchor: https://www.aljazeera.com/economy/2023/11/17/openai-says-sam-altman-out-as-ceo-after-board-loses-confidence ; https://www.aljazeera.com/economy/2023/11/20/microsoft-hires-ousted-openai-ceo-sam-altman ; https://www.aljazeera.com/economy/2023/11/20/openai-staff-threaten-to-quit-en-masse-unless-board-resigns ; https://www.aljazeera.com/economy/2023/11/21/openai-says-sam-altman-to-return-as-ceo ; https://www.aljazeera.com/economy/2023/11/29/sam-altman-formally-returns-as-openai-ceo ; https://www.aljazeera.com/economy/2024/3/9/openai-board-says-altmans-removal-was-not-warranted ; https://www.aljazeera.com/economy/2024/5/15/openai-co-founder-ilya-sutskever-leaves-the-firm ; https://www.aljazeera.com/economy/2024/5/18/jan-leike-quits-openai-saying-safety-took-a-back-seat ; https://www.aljazeera.com/economy/2024/9/26/openai-cto-mira-murati-says-she-is-leaving-the-company ; https://www.aljazeera.com/economy/2024/10/3/openai-raises-66bn-at-157bn-valuation . Date approximations per rule 4: Nov 18 'rival venture' discussions (AJ source: Bloomberg/Reuters wire) pegged to weekend reporting; Nov 22 Q* surfacing pegged to Reuters wire date as carried by AJ. WilmerHale review release dated Mar 8 2024 (AJ published Mar 9; the report was released the prior day). Source disagreements: Board's stated reason for firing — AJ used the original board-statement language 'not consistently candid'; CNN paraphrased as 'loss of confidence'. Both are attributable to OpenAI's Nov 17 statement. Sutskever's Nov 20 'regret' tweet — AJ included it as a discrete event; CNN folded it into the broader Nov 20 employee-letter narrative. Public figures named: Sam Altman, Greg Brockman, Mira Murati, Ilya Sutskever, Jan Leike, Satya Nadella — all public corporate officers, permitted under rule 6."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Stated reason for Altman's removal",
+      "sources": ["CNN (c11_b_t1)", "Al Jazeera (c11_b_t2)"],
+      "note": "AJ quotes the OpenAI board's original 'not consistently candid' phrasing verbatim; CNN paraphrases as 'loss of confidence'. Both phrasings trace to the same Nov 17 2023 board statement."
+    },
+    {
+      "topic": "Q* project reporting",
+      "sources": ["CNN (c11_b_t1)", "Al Jazeera (c11_b_t2)"],
+      "note": "On Nov 22 2023 Reuters reported that OpenAI researchers had written to the board about a project called Q* prior to Altman's firing. OpenAI did not confirm the reporting. Both timelines carry the entry but frame it as reporting/surfacing rather than confirmed fact."
+    }
+  ]
+}

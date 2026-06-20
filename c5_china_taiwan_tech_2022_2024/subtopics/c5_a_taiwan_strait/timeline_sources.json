@@ -1,0 +1,30 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c5_a_t1",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/topics/regions/asia-pacific/taiwan",
+      "num_entries": 17,
+      "notes": "Fetched 2026-06-20. Aggregated across Al Jazeera's Taiwan topic page (no single AJ article carries 15+ dated entries on Taiwan Strait tensions across the cluster window). Contributing articles: https://www.aljazeera.com/news/2022/8/2/nancy-pelosi-arrives-in-taiwan-defying-china-warnings ; https://www.aljazeera.com/news/2022/8/4/china-launches-largest-ever-military-drills-around-taiwan ; https://www.aljazeera.com/news/2022/8/7/china-extends-military-drills-around-taiwan ; https://www.aljazeera.com/news/2022/9/1/taiwan-shoots-down-unidentified-drone-near-chinese-coast ; https://www.aljazeera.com/news/2023/4/5/tsai-meets-mccarthy-in-california-defying-china ; https://www.aljazeera.com/news/2023/4/8/china-launches-drills-around-taiwan-after-tsai-mccarthy-meeting ; https://www.aljazeera.com/news/2023/8/19/china-sends-warplanes-near-taiwan-after-lai-us-transit ; https://www.aljazeera.com/news/2024/1/13/taiwan-elects-lai-ching-te-as-new-president ; https://www.aljazeera.com/news/2024/1/15/nauru-cuts-ties-with-taiwan-recognises-china ; https://www.aljazeera.com/news/2024/2/14/two-chinese-fishermen-drown-during-taiwan-coast-guard-chase ; https://www.aljazeera.com/news/2024/4/3/strong-earthquake-strikes-taiwans-east-coast ; https://www.aljazeera.com/news/2024/5/20/lai-ching-te-inaugurated-as-taiwans-new-president ; https://www.aljazeera.com/news/2024/5/23/china-launches-joint-sword-2024a-drills-around-taiwan ; https://www.aljazeera.com/news/2024/10/10/taiwans-lai-says-china-has-no-right-to-represent-the-island ; https://www.aljazeera.com/news/2024/10/14/china-launches-joint-sword-2024b-drills-around-taiwan ; https://www.aljazeera.com/news/2024/12/9/taiwan-reports-largest-chinese-naval-deployment-in-decades ; https://www.aljazeera.com/news/2024/12/12/taiwan-says-chinese-military-activity-around-island-winding-down . Date approximations per rule 4: Drills closing dates approximated to AJ-reported wind-down day; the Dec 2024 deployment was unannounced by China so Taiwan's MND tracking dates are the anchor. Source disagreements: AJ described Aug 4 2022 drills as 'live-fire' without specifying ballistic missiles; CNN highlighted ballistic missile firings explicitly. Both characterisations are consistent with Taiwan and Japan MoD reporting. Lai-McCarthy/Tsai-McCarthy: AJ's coverage tied the April 2023 drills to the Tsai-McCarthy meeting on April 5; the Aug 2023 drills were tied to Lai's US transit. Public figures named: Tsai Ing-wen, Lai Ching-te, Nancy Pelosi, Kevin McCarthy — all public officials, permitted under rule 6. Politically sensitive: cluster spec marks this as politically_sensitive: false; entries written event-anchored, factually."
+    },
+    {
+      "timeline_id": "c5_a_t2",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/asia/china/taiwan",
+      "num_entries": 17,
+      "notes": "Fetched 2026-06-20. Aggregated across CNN's Taiwan/cross-strait coverage (no single CNN article carries 15+ dated entries). Contributing articles: https://www.cnn.com/2022/08/02/politics/nancy-pelosi-taiwan-arrival ; https://www.cnn.com/2022/08/04/asia/china-taiwan-military-drills-missiles-intl-hnk ; https://www.cnn.com/2022/08/05/asia/china-pelosi-sanctions-suspends-talks-intl-hnk ; https://www.cnn.com/2022/08/10/asia/china-taiwan-white-paper-reunification-intl-hnk ; https://www.cnn.com/2023/04/05/politics/tsai-mccarthy-reagan-library-meeting ; https://www.cnn.com/2023/04/08/asia/china-joint-sword-drills-taiwan-intl-hnk ; https://www.cnn.com/2023/08/15/asia/lai-ching-te-us-transit-china-intl-hnk ; https://www.cnn.com/2024/01/13/asia/taiwan-presidential-election-lai-ching-te-intl-hnk ; https://www.cnn.com/2024/01/15/asia/nauru-taiwan-china-recognition-intl-hnk ; https://www.cnn.com/2024/02/14/asia/taiwan-coast-guard-chinese-fishermen-kinmen-intl-hnk ; https://www.cnn.com/2024/04/03/asia/taiwan-earthquake-hualien-intl-hnk ; https://www.cnn.com/2024/05/20/asia/lai-ching-te-taiwan-inauguration-intl-hnk ; https://www.cnn.com/2024/05/23/asia/china-joint-sword-2024a-drills-taiwan-intl-hnk ; https://www.cnn.com/2024/10/10/asia/taiwan-lai-national-day-speech-intl-hnk ; https://www.cnn.com/2024/10/14/asia/china-joint-sword-2024b-drills-taiwan-intl-hnk ; https://www.cnn.com/2024/12/09/asia/taiwan-china-naval-deployment-intl-hnk ; https://www.cnn.com/2024/12/12/asia/taiwan-china-military-activity-winding-down-intl-hnk . Date approximations per rule 4: Aug 2023 Lai US-transit-related military activity dated Aug 15 (CNN) vs Aug 19 (AJ); both refer to the same buildup phase but anchor on the start (CNN) versus peak (AJ). Source disagreements: Aug 4 2022 drills — CNN explicitly noted ballistic missile firings (Japan's MoD reported five missiles landing in Japan's EEZ); AJ kept the framing at 'live-fire'. Aug 10 2022 white paper — CNN included the discrete white-paper-publication entry; AJ folded that into the broader drills narrative. Lai 'represent Taiwan' phrasing (Oct 10 2024) — CNN's translation 'represent the people of Taiwan' is a direct rendering of Lai's speech; AJ paraphrased without the 'people of'. Public figures named: same as t1, all public officials, permitted under rule 6."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Date of August 2023 Chinese military activity related to Lai's US transit",
+      "sources": ["Al Jazeera (c5_a_t1)", "CNN (c5_a_t2)"],
+      "note": "CNN dated the activity to Aug 15 2023 (start of Lai's transit), while AJ dated it to Aug 19 (peak warplane sortie count reported by Taiwan's MND). Both are correct anchors for the same multi-day episode."
+    },
+    {
+      "topic": "Characterization of August 4 2022 drills",
+      "sources": ["Al Jazeera (c5_a_t1)", "CNN (c5_a_t2)"],
+      "note": "CNN highlighted that the drills included ballistic missiles (with five landing in Japan's EEZ); AJ used the broader 'live-fire' phrasing. Both characterisations are accurate and trace to Taiwan and Japan MoD reporting."
+    }
+  ]
+}

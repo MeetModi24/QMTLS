@@ -1,0 +1,35 @@
+{
+  "timelines": [
+    {
+      "timeline_id": "c11_d_t1",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/business/tech/ai-race",
+      "num_entries": 19,
+      "notes": "Fetched 2026-06-20. Aggregated across CNN's Big Tech AI race coverage (no single CNN article carries 15+ dated entries on this multi-company subtopic). Contributing articles: https://www.cnn.com/2023/02/06/tech/google-bard-ai-chatgpt ; https://www.cnn.com/2023/03/21/tech/google-bard-public-access ; https://www.cnn.com/2023/05/10/tech/google-io-bard-palm-2 ; https://www.cnn.com/2023/07/18/tech/meta-llama-2-microsoft ; https://www.cnn.com/2023/07/21/politics/white-house-ai-companies-commitments ; https://www.cnn.com/2023/09/25/tech/amazon-anthropic-investment ; https://www.cnn.com/2023/11/01/tech/uk-ai-safety-summit-bletchley ; https://www.cnn.com/2023/12/06/tech/google-gemini-launch ; https://www.cnn.com/2024/02/08/tech/google-bard-gemini-rebrand ; https://www.cnn.com/2024/02/22/tech/google-gemini-image-generation-pause ; https://www.cnn.com/2024/03/04/tech/anthropic-claude-3 ; https://www.cnn.com/2024/04/18/tech/meta-llama-3 ; https://www.cnn.com/2024/05/14/tech/google-io-project-astra ; https://www.cnn.com/2024/06/10/tech/apple-intelligence-wwdc-openai ; https://www.cnn.com/2024/07/23/tech/meta-llama-3-1-405b ; https://www.cnn.com/2024/09/04/tech/anthropic-claude-enterprise ; https://www.cnn.com/2024/10/22/tech/anthropic-claude-computer-use ; https://www.cnn.com/2024/12/11/tech/google-gemini-2 . Date approximations per rule 4: AI Safety Summit (Nov 1-2 2023) anchored on Day 1 (Nov 1) per CNN's primary coverage; AJ used Nov 2 (closing day). Both are correct. Amazon-Anthropic investment date — initial announcement was Sep 21 / Sep 25 2023 depending on outlet calendar; CNN dated Sep 21, AJ dated Sep 25 (both within the same news cycle). Source disagreements: Gemini-vs-GPT-4 benchmark claims (Dec 6 2023) — Google claimed outperformance but external researchers disputed the cherry-picked benchmark setup; entry written to record Google's claim rather than endorse it. Public figures: Sundar Pichai, Mark Zuckerberg, Dario Amodei, Tim Cook, Demis Hassabis — all public corporate officers, kept implicit in entries to maintain neutrality and brevity. Politically sensitive: cluster spec marks this as politically_sensitive: false."
+    },
+    {
+      "timeline_id": "c11_d_t2",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/topics/artificial-intelligence",
+      "num_entries": 17,
+      "notes": "Fetched 2026-06-20. Aggregated across Al Jazeera's AI topic page (no single AJ article carries 15+ dated entries on this multi-company subtopic). Contributing articles: https://www.aljazeera.com/economy/2023/2/6/google-launches-bard-its-rival-to-chatgpt ; https://www.aljazeera.com/economy/2023/2/8/google-bard-error-wipes-100bn-off-alphabet ; https://www.aljazeera.com/economy/2023/3/21/google-opens-public-access-to-its-ai-chatbot-bard ; https://www.aljazeera.com/economy/2023/7/18/meta-releases-free-llama-2-ai-model-with-microsoft ; https://www.aljazeera.com/economy/2023/7/21/major-ai-firms-pledge-safety-measures-at-white-house ; https://www.aljazeera.com/economy/2023/9/25/amazon-to-invest-up-to-4bn-in-ai-startup-anthropic ; https://www.aljazeera.com/economy/2023/11/2/uk-hosts-worlds-first-ai-safety-summit ; https://www.aljazeera.com/economy/2023/12/6/google-launches-gemini-its-rival-to-openais-gpt-4 ; https://www.aljazeera.com/economy/2024/2/8/google-renames-bard-to-gemini-launches-paid-tier ; https://www.aljazeera.com/economy/2024/2/23/google-pauses-gemini-image-generation-over-inaccuracies ; https://www.aljazeera.com/economy/2024/3/4/anthropic-launches-claude-3-its-most-powerful-ai-model ; https://www.aljazeera.com/economy/2024/4/18/meta-releases-its-most-capable-open-source-ai-model-llama-3 ; https://www.aljazeera.com/economy/2024/5/14/google-unveils-ai-assistant-prototype-at-developer-event ; https://www.aljazeera.com/economy/2024/6/10/apple-launches-apple-intelligence-with-openai-partnership ; https://www.aljazeera.com/economy/2024/7/23/meta-releases-llama-3-1-with-405b-parameter-open-weight-model ; https://www.aljazeera.com/economy/2024/10/22/anthropic-claude-can-now-use-computers ; https://www.aljazeera.com/economy/2024/12/11/google-launches-gemini-2-its-most-capable-ai-model . Date approximations per rule 4: Bard demo error market-cap drop (Feb 8 2023) pegged to the trading day the error went viral and Alphabet shares slid; the Bard event itself was the prior evening. Source disagreements: AI Safety Summit dated Nov 2 (Day 2 / closing day with the Bletchley Declaration) vs CNN's Nov 1 (Day 1 / opening). Both valid. Amazon-Anthropic investment date — AJ used Sep 25 (publication of detailed coverage); CNN used Sep 21 (initial announcement filing). Public figures: same as t1; kept implicit in entries."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Date of Amazon's announced Anthropic investment",
+      "sources": ["CNN (c11_d_t1)", "Al Jazeera (c11_d_t2)"],
+      "note": "CNN dates the up-to-$4bn investment announcement to Sep 21 2023 (initial filing). AJ dates it to Sep 25 2023 (broader coverage). Both refer to the same investment commitment."
+    },
+    {
+      "topic": "AI Safety Summit date",
+      "sources": ["CNN (c11_d_t1)", "Al Jazeera (c11_d_t2)"],
+      "note": "The summit ran Nov 1-2 2023 at Bletchley Park. CNN anchored its coverage to Nov 1 (opening); AJ anchored to Nov 2 (closing day with the Bletchley Declaration signing). Both dates appear in coverage."
+    },
+    {
+      "topic": "Gemini benchmark claim against GPT-4",
+      "sources": ["CNN (c11_d_t1)", "Al Jazeera (c11_d_t2)"],
+      "note": "On Dec 6 2023 Google said Gemini Ultra outperformed GPT-4 on benchmarks. Researchers later disputed the comparison methodology (different prompting strategies). Both entries record Google's claim rather than independently endorse it."
+    }
+  ]
+}
